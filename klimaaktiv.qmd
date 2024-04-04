@@ -1,0 +1,129 @@
+---
+title: "Social media und das Klima"
+author: "Hannah Metzler"
+format: 
+  revealjs: 
+    theme: default
+editor: visual
+---
+
+## Was ist Misinformation?
+
+## Machen Sie sich Sorgen wegen Misinformation zu Klimawandel auf Sozialen Medien?
+
+-   Graphik Eher ja, Eher nein
+
+## Glauben Sie, dass andere leichtgläubiger sind als Sie?
+
+-   app Antwort Statistik mit Graphik
+
+-   3.  Person Effekt - Sacha Altay Paper
+
+## Aber warum hörst du nicht zu?
+
+### Überzeugen im Alltag
+
+-   Bild
+
+::: notes
+Haben Sie schonmal versucht jemanden von was zu überzeugen, dass er/sie nicht glaubt? Hat jemand schonmal versucht Sie von was zu überzeugen? Wie war das?
+:::
+
+## Zusammenfassung
+
+-   Große Sorgen
+-   Andere sind leichtläubig und manipulierbar
+-   Im Alltag ist es allerdings schwer, andere von etwas zu überzeugen.
+
+## Warum ist überzeugen so schwierig?
+
+-   Grundzustand des Menschen ist Skepsis, nicht Leichtgläubigkeit.
+-   Einfach alles glauben macht verletzlich - warum sollte ich das tun?
+-   Beispiel - Foto: Jemand auf der Straße erzählt ihnen was
+    -   glauben Sie das?
+    -   ändern Sie ihr Verhalten?
+    
+## Menschen sind nicht dumm! Warum?
+
+- Bild der Evolution (Affen Kommunikation)
+
+:::{.notes}
+in allen Spezies wahr: damit sich Kommunikation entwickelt, muss sie im Durchschnitt für den Sender und den Empfänger etwas nützen. 
+Individuen die andere in die Irre führen: leicht gläubig
+Was passiert mit denen? Die Sterben eher aus. 
+Wer bleibt übrig? Die, die nichts glauben. 
+
+Damit Kommunikation funktionieren kann, braucht eine Spezies die Fähigkeit, sie so zu verarbeiten, dass sie dem Empfänger etwas bringt. Wenn sie nichts bringt, entwickelt sie sich nicht. Deswegen haben viele Tiere keine komplexe Kommunikation und Kooperation - die glauben einander einfach fast nichts. 
+
+## Menschen haben die Fähigkeit, anderen zu vertrauen
+
+- Einzigartig - erlaubt Kommunikation und Kooperation
+- Weil wir Mechanismen haben, um Kommunikation auf Wahrheit hin zu überprüfen
+
+## Es ist wichtig, Menschen die Wahrheit zuzutrauen
+
+- Regierung - Angst - Covid Ausbruch
+- Verlust des Vertrauens
+- Propaganda hat nur sehr kurz funktioniert
+
+## Was heißt das für Misinformation? 
+
+- Minimale Effekte
+- Propaganda ist wirklich schwer
+- Ideen nicht gleich Virus
+
+
+## Warum glauben Menschen dann so viele falsche Dinge?
+
+## Wie groß ist das Problem?
+
+<iframe src="https://ourworldindata.org/grapher/share-believe-climate" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+::: aside
+https://ourworldindata.org/climate-change-support
+:::
+
+## Wer konsumiert Misinformation?
+
+- Partisan
+- Aktive Suche nach Misinformation
+
+
+## Konsequenzen für das eigene Leben
+
+- reflektive und intuitive Annahmen
+
+## Dynamik auf Social Media
+
+## Konflikte auf Social Media
+
+- Breites Pupblikum, Kontext fehlt
+
+## Echokammern
+
+## Algorithmen
+
+## AI und Misinformation/Propaganda
+
+- Engpass Aufmerksamkeit
+- so viel Info im Netz
+- Personalisiert: 
+  - so viel besser als Menschen kann AI nicht werden, etwas Raum ist hier noch
+  - Menschen haben nicht so viel Zeit/Aufmerksamkeit - wie macht man das at scale? So viele kämpfen um ihre Aufmerksamkeit
+  - warum sollten die Bösen da einen Vorteil haben?
+  - sehr personalisiert: kann man nicht weiter teilen - wir wollen mit anderen über Content reden können
+
+-  AI hilft auch der guten Seite
+
+## Chaos stiften
+
+- nichts mehr glauben
+- Menschen beurteilen den Inhalt selbst - Plausiblitätscheck
+
+## Misinformation von oben: Politik und Medien
+
+- Kein großes Problem beim Thema Klima
+
+
+
+
