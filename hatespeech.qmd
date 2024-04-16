@@ -1,0 +1,77 @@
+---
+title: "Soziale Medien & Hassrede"
+author: "Hannah Metzler <br> Complexity Science Hub Vienna &  Medizinische Universität Wien <br> Slides: hannahmetzler.eu/klimaaktiv"
+date: "18 April 2024"
+format: 
+  html:
+  # revealjs: 
+  #   seal: false
+  #   transition: 'slide'
+    ## Defines the theme of the presentation, both version and style
+    theme: [default, custom.scss]
+    # incremental slides point by point
+    # incremental: true
+    # aspect-ratio: 16:9
+    # slide-number: true
+title-slide-attributes:
+    data-background-color: "#1f5c99"
+#     data-background-size: cover
+#     data-background-opacity: "0.5"
+
+#editor
+editor: visual
+---
+
+# Rolle von Social Media: Warum es kompliziert ist
+
+- Ergebnisse sind gemischt
+- Neue Medien waren immer schon im Verdacht
+- Medien können für gute und schlechte Zwecke verwendet werden
+- Social Medien sind komplexer, weil User Information teilen, nicht Medien selbst, Macht der Platformen liegt im Steuern des Informationsflusses
+
+### Positive Beispiele
+
+* Arab Spring, Fridays for Future and #MeToo
+* Ukraine: Motivation & Informationskrieg
+
+### Negative Beispiele: 
+
+* Sturm auf das Kapitol 2021
+* Myanmar
+* Russland: sperrt Social Media und verbirgt so Attacke auf Ukraine
+
+[Bild double edged sword]
+
+# How large is the problem?
+
+-   2020 study found 1150 online hate communities ([Lupu et al. (2023)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278511))
+-   Frequency of hate in these communities in 2019-2020:
+
+![](https://doi.org/10.1371/journal.pone.0278511.g003)
+
+
+## Politics & news
+
+- 2.7% of videos on YouTube [McGrady et al. 2023](https://journalqd.org/article/view/4066/3766)
+
+![](images_hate/McGrady2023_Youtube_video_categories.png)
+- Comments to political videos (videos of local politicians in Germany, [Haim & Hoven, 2022](https://journalqd.org/article/view/3528))
+
+![](images_hate/Haim2022_Youtube_hate_speech.svg)
+
+- Harmful speech overlaps with misinformation sharing ([Mosleh et al., 2024](https://doi.org/10.1093/pnasnexus/pgae111))
+
+
+## Misinformation
+
+- US study for 1 week (Rand 2024 Preprint intervention)
+- In a representative sample of US Facebook users (350.000?), only 5% shared any misinformation
+- Among people who previoulsy shared low-quality news, 70% shared low-quality news
+
+- General Twitter user engagement with hate users was significantly low, with fewer likes, retweets, and replies
+
+# Real-world events drive increases in hate speech
+
+![](https://doi.org/10.1371/journal.pone.0278511.g004)
+
+

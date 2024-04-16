@@ -1,9 +1,23 @@
 ---
-title: "Social media und das Klima"
-author: "Hannah Metzler"
+title: "Soziale Medien sind (k)ein Klimakiller"
+author: "Hannah Metzler <br> Complexity Science Hub Vienna &  Medizinische Universität Wien <br> Slides: hannahmetzler.eu/klimaaktiv"
+date: "8. Mai 2024"
 format: 
   revealjs: 
-    theme: default
+    seal: false
+    transition: 'slide'
+    ## Defines the theme of the presentation, both version and style
+    theme: [default, custom.scss]
+    # incremental slides point by point
+    #incremental: true
+    aspect-ratio: 16:9
+    slide-number: true
+title-slide-attributes:
+    data-background-color: "#1f5c99"
+#     data-background-size: cover
+#     data-background-opacity: "0.5"
+
+#editor
 editor: visual
 ---
 
@@ -62,18 +76,24 @@ Damit Kommunikation funktionieren kann, braucht eine Spezies die Fähigkeit, sie
 
 ## Es ist wichtig, Menschen die Wahrheit zuzutrauen
 
-- Regierung - Angst - Covid Ausbruch
+- Regierung - Angst - COVID Ausbruch
 - Verlust des Vertrauens
 - Propaganda hat nur sehr kurz funktioniert
 
 ## Was heißt das für Misinformation? 
 
-- Minimale Effekte
+- Minimale Überzeugungseffekte
 - Propaganda ist wirklich schwer
 - Ideen nicht gleich Virus
 
 
 ## Warum glauben Menschen dann so viele falsche Dinge?
+
+- Medien Bias (conscipious cognition blog)
+- Populismus: Aufgreifen was Menschen bereits glauben
+- 
+
+# Klima Misinformation
 
 ## Wie groß ist das Problem?
 
@@ -83,10 +103,13 @@ Damit Kommunikation funktionieren kann, braucht eine Spezies die Fähigkeit, sie
 https://ourworldindata.org/climate-change-support
 :::
 
+# 
+
 ## Wer konsumiert Misinformation?
 
 - Partisan
 - Aktive Suche nach Misinformation
+- Niedriges Vertrauen in Gesundheitssystem, politisches System und Wissenschaft
 
 
 ## Konsequenzen für das eigene Leben
@@ -94,6 +117,10 @@ https://ourworldindata.org/climate-change-support
 - reflektive und intuitive Annahmen
 
 ## Dynamik auf Social Media
+
+- Social Media prism: verzerrtes Bild der Realität
+
+- Beispiel aus der Schweiz ([Maitra et al., 2023](www.doi.org/10.51685/jqd.2023.008))
 
 ## Konflikte auf Social Media
 
@@ -123,6 +150,7 @@ https://ourworldindata.org/climate-change-support
 ## Misinformation von oben: Politik und Medien
 
 - Kein großes Problem beim Thema Klima
+- Politiker & Celebrities etc: 20% der Misinformation, aber 69% der Social Media Interaktionen mit Misinformation ([Brennen et al., 2020](https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation))
 
 
 
