@@ -125,6 +125,7 @@ https://ourworldindata.org/climate-change-support
 ## Konflikte auf Social Media
 
 - Breites Pupblikum, Kontext fehlt
+- Affektive Polarisierung: Gefühle zwischen Gruppen ([Kubin & Sikorski 2021](https://www.tandfonline.com/doi/full/10.1080/23808985.2021.1976070))
 
 ## Echokammern
 
@@ -152,6 +153,10 @@ https://ourworldindata.org/climate-change-support
 - Kein großes Problem beim Thema Klima
 - Politiker & Celebrities etc: 20% der Misinformation, aber 69% der Social Media Interaktionen mit Misinformation ([Brennen et al., 2020](https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation))
 
+# Literaturempfehlungen
 
+Bilder der Bücher
+- Hugo Mercier: Not born yesterday (Misinformation, Propaganda)
+- Christopher Bail: The social media prism (Polarisierung, Verzerrte Wirklichkeit)
 
 

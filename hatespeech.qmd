@@ -49,7 +49,6 @@ editor: visual
 
 ![](https://doi.org/10.1371/journal.pone.0278511.g003)
 
-
 ## Politics & news
 
 - 2.7% of videos on YouTube [McGrady et al. 2023](https://journalqd.org/article/view/4066/3766)
@@ -70,8 +69,13 @@ editor: visual
 
 - General Twitter user engagement with hate users was significantly low, with fewer likes, retweets, and replies
 
-# Real-world events drive increases in hate speech
+## Real-world events drive increases in hate speech
 
-![](https://doi.org/10.1371/journal.pone.0278511.g004)
+![](images/journal.pone.0278511.g004.PNG)
+
+::: footer
+[Lupu et al., 2023](https://doi.org/10.1371/journal.pone.0278511.g004)
+:::
+
 
 
