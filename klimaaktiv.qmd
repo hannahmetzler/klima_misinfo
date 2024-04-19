@@ -31,7 +31,9 @@ editor: visual
 
 -   app Antwort Statistik mit Graphik
 
--   3.  Person Effekt - Sacha Altay Paper
+-   
+
+    3.  Person Effekt - Sacha Altay Paper
 
 ## Aber warum hörst du nicht zu?
 
@@ -56,76 +58,82 @@ Haben Sie schonmal versucht jemanden von was zu überzeugen, dass er/sie nicht g
 -   Beispiel - Foto: Jemand auf der Straße erzählt ihnen was
     -   glauben Sie das?
     -   ändern Sie ihr Verhalten?
-    
+
 ## Menschen sind nicht dumm! Warum?
 
-- Bild der Evolution (Affen Kommunikation)
+-   Bild der Evolution (Affen Kommunikation)
 
-:::{.notes}
-in allen Spezies wahr: damit sich Kommunikation entwickelt, muss sie im Durchschnitt für den Sender und den Empfänger etwas nützen. 
-Individuen die andere in die Irre führen: leicht gläubig
-Was passiert mit denen? Die Sterben eher aus. 
-Wer bleibt übrig? Die, die nichts glauben. 
+:::{.notes} in allen Spezies wahr: damit sich Kommunikation entwickelt, muss sie im Durchschnitt für den Sender und den Empfänger etwas nützen. Individuen die andere in die Irre führen: leicht gläubig Was passiert mit denen? Die Sterben eher aus. Wer bleibt übrig? Die, die nichts glauben.
 
-Damit Kommunikation funktionieren kann, braucht eine Spezies die Fähigkeit, sie so zu verarbeiten, dass sie dem Empfänger etwas bringt. Wenn sie nichts bringt, entwickelt sie sich nicht. Deswegen haben viele Tiere keine komplexe Kommunikation und Kooperation - die glauben einander einfach fast nichts. 
+Damit Kommunikation funktionieren kann, braucht eine Spezies die Fähigkeit, sie so zu verarbeiten, dass sie dem Empfänger etwas bringt. Wenn sie nichts bringt, entwickelt sie sich nicht. Deswegen haben viele Tiere keine komplexe Kommunikation und Kooperation - die glauben einander einfach fast nichts.
 
 ## Menschen haben die Fähigkeit, anderen zu vertrauen
 
-- Einzigartig - erlaubt Kommunikation und Kooperation
-- Weil wir Mechanismen haben, um Kommunikation auf Wahrheit hin zu überprüfen
+-   Einzigartig - erlaubt Kommunikation und Kooperation
+-   Weil wir Mechanismen haben, um Kommunikation auf Wahrheit hin zu überprüfen
 
 ## Es ist wichtig, Menschen die Wahrheit zuzutrauen
 
-- Regierung - Angst - COVID Ausbruch
-- Verlust des Vertrauens
-- Propaganda hat nur sehr kurz funktioniert
+-   Regierung - Angst - COVID Ausbruch
+-   Verlust des Vertrauens
+-   Propaganda hat nur sehr kurz funktioniert
 
-## Was heißt das für Misinformation? 
+## Was heißt das für Misinformation?
 
-- Minimale Überzeugungseffekte
-- Propaganda ist wirklich schwer
-- Ideen nicht gleich Virus
-
+-   Minimale Überzeugungseffekte
+-   Propaganda ist wirklich schwer
+-   Ideen nicht gleich Virus
 
 ## Warum glauben Menschen dann so viele falsche Dinge?
 
-- Medien Bias (conscipious cognition blog)
-- Populismus: Aufgreifen was Menschen bereits glauben
-- 
+-   Medien Bias (conscipious cognition blog)
+-   Populismus: Aufgreifen was Menschen bereits glauben
+-   
 
 # Klima Misinformation
 
 ## Wie groß ist das Problem?
 
-<iframe src="https://ourworldindata.org/grapher/share-believe-climate" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+Mehr Menschen machen sich Sorgen über den Klimwandel als man denken würde (\[Ritchie, 2023, Our World in Data\](<https://ourworldindata.org/climate-change-support>)
+
+<iframe src="https://ourworldindata.org/grapher/share-believe-climate" loading="lazy" style="width: 100%; height: 600px; border: 0px none;">
+
+</iframe>
 
 ::: aside
 https://ourworldindata.org/climate-change-support
 :::
 
-# 
+Österreich Polarisierung Klima:
+
+<https://www.sora.at/fileadmin/downloads/projekte/2023_FORESIGHT_Praesentation_Hintergrundgespraech_Polarisierung.pdf>
+
+Interventionen - was kann man tun? 63 Länder
+
+[DOI: 10.1126/sciadv.adj5778](https://doi-org.ez.srv.meduniwien.ac.at/10.1126/sciadv.adj5778)
 
 ## Wer konsumiert Misinformation?
 
-- Partisan
-- Aktive Suche nach Misinformation
-- Niedriges Vertrauen in Gesundheitssystem, politisches System und Wissenschaft
-
+-   Partisan
+-   Aktive Suche nach Misinformation
+-   Niedriges Vertrauen in Gesundheitssystem, politisches System und Wissenschaft
 
 ## Konsequenzen für das eigene Leben
 
-- reflektive und intuitive Annahmen
+-   reflektive und intuitive Annahmen
 
 ## Dynamik auf Social Media
 
-- Social Media prism: verzerrtes Bild der Realität
+-   Social Media prism: verzerrtes Bild der Realität
 
-- Beispiel aus der Schweiz ([Maitra et al., 2023](www.doi.org/10.51685/jqd.2023.008))
+-   Beispiel aus der Schweiz ([Maitra et al., 2023](www.doi.org/10.51685/jqd.2023.008))
+
+-   Social media use and beliefs about climate change: Results suggest that using social media for news is associated with a decrease in climate skepticism across the sample. [Diehl et al., 2021](https://doi.org/10.1093/ijpor/edz040)
 
 ## Konflikte auf Social Media
 
-- Breites Pupblikum, Kontext fehlt
-- Affektive Polarisierung: Gefühle zwischen Gruppen ([Kubin & Sikorski 2021](https://www.tandfonline.com/doi/full/10.1080/23808985.2021.1976070))
+-   Breites Pupblikum, Kontext fehlt
+-   Affektive Polarisierung: Gefühle zwischen Gruppen ([Kubin & Sikorski 2021](https://www.tandfonline.com/doi/full/10.1080/23808985.2021.1976070))
 
 ## Echokammern
 
@@ -133,30 +141,25 @@ https://ourworldindata.org/climate-change-support
 
 ## AI und Misinformation/Propaganda
 
-- Engpass Aufmerksamkeit
-- so viel Info im Netz
-- Personalisiert: 
-  - so viel besser als Menschen kann AI nicht werden, etwas Raum ist hier noch
-  - Menschen haben nicht so viel Zeit/Aufmerksamkeit - wie macht man das at scale? So viele kämpfen um ihre Aufmerksamkeit
-  - warum sollten die Bösen da einen Vorteil haben?
-  - sehr personalisiert: kann man nicht weiter teilen - wir wollen mit anderen über Content reden können
-
--  AI hilft auch der guten Seite
+-   Engpass Aufmerksamkeit
+-   so viel Info im Netz
+-   Personalisiert:
+    -   so viel besser als Menschen kann AI nicht werden, etwas Raum ist hier noch
+    -   Menschen haben nicht so viel Zeit/Aufmerksamkeit - wie macht man das at scale? So viele kämpfen um ihre Aufmerksamkeit
+    -   warum sollten die Bösen da einen Vorteil haben?
+    -   sehr personalisiert: kann man nicht weiter teilen - wir wollen mit anderen über Content reden können
+-   AI hilft auch der guten Seite
 
 ## Chaos stiften
 
-- nichts mehr glauben
-- Menschen beurteilen den Inhalt selbst - Plausiblitätscheck
+-   nichts mehr glauben
+-   Menschen beurteilen den Inhalt selbst - Plausiblitätscheck
 
 ## Misinformation von oben: Politik und Medien
 
-- Kein großes Problem beim Thema Klima
-- Politiker & Celebrities etc: 20% der Misinformation, aber 69% der Social Media Interaktionen mit Misinformation ([Brennen et al., 2020](https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation))
+-   Kein großes Problem beim Thema Klima
+-   Politiker & Celebrities etc: 20% der Misinformation, aber 69% der Social Media Interaktionen mit Misinformation ([Brennen et al., 2020](https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation))
 
 # Literaturempfehlungen
 
-Bilder der Bücher
-- Hugo Mercier: Not born yesterday (Misinformation, Propaganda)
-- Christopher Bail: The social media prism (Polarisierung, Verzerrte Wirklichkeit)
-
-
+Bilder der Bücher - Hugo Mercier: Not born yesterday (Misinformation, Propaganda) - Christopher Bail: The social media prism (Polarisierung, Verzerrte Wirklichkeit)
