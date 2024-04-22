@@ -12,11 +12,13 @@ Journalistin: Lisa Breit
 
 ## Viele sagen ja, man sollte heute nicht mehr den Begriff Fake News verwenden, weil Donald Trump ihn verwendet hat, um die Medien als „Lügenpresse“ darzustellen. Wie sehen Sie das?
 
-- Hab da oft eine wissenschaftliche Zugangsweise: Nicht allzu viel beschäftigt mit den Auswirkungen von bestimmten Begriffen.
-- Es ist auf jeden Fall sehr wichtig, Vertrauen in Medien zu erhalten und zu erhöhen, die allgemeine Skepsis, die sich breitmacht, ist problematisch. Ich denke, es kann auf jeden Fall nicht schaden präzise Begriffe zu verwenden, die nicht leicht missbraucht werden können. 
+- Hab da oft eine wissenschaftliche Zugangsweise: Nicht allzu viel beschäftigt mit den Auswirkungen von bestimmten Begriffen, weiß nicht, ob das Auswirkungen hat. 
+- Es ist auf jeden Fall sehr wichtig, Vertrauen in Medien zu erhalten und zu erhöhen, die allgemeine Skepsis in Medien, die sich breitmacht, ist problematisch. 
+- Wichtig, nicht zu viel Angst vor Fehlinformation zu schüren, wir glauben alle, andere sind anfälliger als wird. 
+- 65% in Deutschland haben große Angst vor Verbreitung von Desinfo. [Statista 2023](https://de.statista.com/statistik/daten/studie/1377003/umfrage/angst-vor-verbreitung-von-desinformation-in-deutschland/) Nur ca 5% teilen aktiv. [Rand et al., 2024](www.doi.org/0.31234/osf.io/u8anb)
+- Es kann auf jeden Fall nicht schaden präzise Begriffe zu verwenden, die nicht leicht missbraucht werden können. 
     - Falschinformation (Falsch unabhängig von Intention, überprüfbar falsch)
     - Desinformation (mit Intention verbreitet)
-- Ob Information Schaden verursacht ist wichtig: das kann sie auch, ohne falsch zu sein, sehr selektiv/verzerrt, und dadurch zu falschen Schlussfolgerungen führen - das ist das viel größere Problem, als die tatsächlichen sogenannten "Fake News"
 
 ## Ich glaube uns allen ist bewusst, dass starke Emotionen wohl die meisten Klicks und die größte Verweilzeit bringen. Aber was ist die wissenschaftliche Erklärung dafür?
 
@@ -28,16 +30,17 @@ Journalistin: Lisa Breit
 
 ## Sie sagen: Negative, besonders emotionale oder moralische Botschaften über Gruppen, die wir nicht mögen, scheinen das Engagement besonders zu erhöhen. Sie machen es also wahrscheinlicher, dass Postings angeklickt und geteilt werden. Fühlen wir uns denn besser, wenn andere schlechter da stehen – oder geht es um Zugehörigkeit?
 
-- Nein, die meisten Menschen fühlen sich nicht besser, wenn andere schlechter da stehen. Wir fühlen uns auch nicht gut, wenn wir einen Unfall auf der Straße sehen, aber schauen trotzdem hin, was los ist.
+Zugehörigkeit: 
 - Menschen sind allerdings sehr starke soziale Wesen, "Gruppentiere", wir denken in "wir" vs. "die Anderen"
 - Gruppenzugehörigkeit ist enorm relevant für uns. Soziale Informationen sind deswegen immer enorm relevant für uns. 
-
 - Social Media: wenig persönliche Information, aber Gruppenidentität sind sehr sichtbar - Platform geeignet für Wettkampf zwischen verschiedenen politischen oder anderen Gruppen
-- Wer sich eventuell "besser fühlt" wenn andere sich schlecht fühlen, bzw. durch Wut und Aggression auf andere auf sozialen Medien etwas erreicht: Menschen, die Status getrieben sind, und bereit sind, dafür Aggression einzusetzen und Angst/Wut auszulösen. 
+
+Besser fühlen: 
+- Nein, die meisten Menschen fühlen sich nicht besser, wenn andere schlechter da stehen. Wir fühlen uns auch nicht gut, wenn wir einen Unfall auf der Straße sehen, aber schauen trotzdem hin, was los ist.
+- Minderheit: Wer sich eventuell "besser fühlt" wenn andere sich schlecht fühlen, bzw. durch Wut und Aggression auf andere auf sozialen Medien etwas erreicht: Menschen, die Status getrieben sind, und bereit sind, dafür Aggression einzusetzen und Angst/Wut auszulösen. 
     - Menschen, die im Offline Leben nicht die Anerkennung und Status haben, den sie glauben verdient zu haben, die Angst vor Verlust von Privilegien haben, frustriert sind (z.B. weiße Männer)
     - Menschen, die tatsächlich wenig Status, Anerkennung, Sicherheit haben (z.B. schwarze Männer)
-
-
+    
 ## Über welche Themen kursieren besonders viele Falschinformationen? Zu Corona-Hoch-Zeiten war es sicher die Impfung. Was ist es jetzt? Migration? Der Klimawandel?
 
 - Tatsächliche Daten von social media: Schwer zu wissen, anhand von Daten, Studien brauchen Zeit, und Falschinformation auffinden nicht einfach
@@ -57,36 +60,32 @@ https://www.statista.com/statistics/1317019/false-information-topics-worldwide/ 
 - großer Konsens weltweit, dass Klimawandel existiert und Menschen gemacht ist (Our World in Data, Hannah Richtchie, Buch Not the End of the World
 
 - Allgemein Verbreitung von Desinfo: politisch motivierte Minderheit
-- Stärkster Faktor der Teilen erklärt: Parteilichkeit, Bestätigung bekommen von Gleichgesinnten
+- Stärkster Faktor der Teilen erklärt: Parteilichkeit, Suche nach Bestätigung bekommen von Gleichgesinnten, Suche nach Anerkennung
 
+Wer teilt?
 - Menschen, die Status motiviert sind, frustriert über Status/Privilegien Verlust (weiße Männer), sich in der Gesellschaft nicht (mehr) repräsentiert/repräsentiert fühlen
-    - immer größere Einkommens-Ungleicheit 
-
-- Populistische Parteien/Politiker ist Klimawandel ein beliebtes Thema, z.B. AfD Politiker aus Deutschland kürzlich
+    - immer größere Einkommens-Ungleicheit, Globalisierung, immer mehr Ausbildung gefordert...
 - Populismus: gegen Eliten, da gehören oft auch wissenschaftliche Experten dazu
 - Tedenz zu rechten politische Parteien, aber auch links orientierte extreme Haltungen, die Skepsis vor Mainstream schüren
 - CO2 Regulationen gehen gegen die Idee der Freiheit des Marktes - deswegen eher Opposition von ökonomisch liberaleren Parteien/Individuen
+- - Populistische Parteien/Politiker ist Klimawandel ein beliebtes Thema, z.B. AfD Politiker aus Deutschland kürzlich
 
-Mit Lobbying von Fossil Industrie etc. kenne ich mich leider nicht so gut aus
-
+Lobbying von Fossil Industrie spielt bei Klimamisinformation in den USA auch eine Rolle: funding für konservative Think Tanks, sie setzen die Infos in die Welt. [Lewandowsky 2021]
 
 ## Forschende der Universität Genf haben in einer Studie gezeigt, dass Fehlinformationen sehr stark die Meinungen über den menschengemachten Klimawandel prägen. Auch darauf, wie Menschen Maßnahmen beurteilen und wie sehr sie bereit sind, sich umweltfreundlich zu verhalten. Die Forschenden haben dafür rund 7.000 Studienteilnehmende aus zwölf Ländern mit Fehlinformationen konfrontiert. Überrascht Sie das Ergebnis der Studie?
 
 Mich überrascht, wie die Ergebnisse hier präsentiert werden, etwas Verzerrung zum negativen, Übertreibung
 
-- Effekt der Misinfo und der Intervention nicht so unterschiedlich, wie die Formulierung suggeriert. Nicht sehr stark, und nicht kaum. 
-
+- Effekt der Misinfo und der Intervention nicht so unterschiedlich, wie die Formulierung suggeriert. Nicht sehr stark, und nicht kaum Effekt der Interventionen. 
     - Disinfo vs. keine Disinfo, 20 Statements!!!, Effekte auf Gefühle und Meinungen: cohen's d 0.33 (affect), 0.19 (it's real), 0.12 (human made), 0.09 (neg consequences), 0.14 (discernment), 0.24 (planting trees task)
+    - Fehlinformation von wissenschaftlern bekommen: glaubwürdiger
     - Intervention: eine Intervention hatte einen Effekt: β = 0.36 auf Erkennung von wahren/falschen Aussagen
     - Hoher Glaube an Klimawandel in derselben Studie 4/5 Punkte - so schlimm kann Effekt von Misinfo, außerhalb der Studie, nicht sein
-    
-- Unser Weltbild hat einen viel stärkeren Einfluss auf unsere Sichtweise, als kurze Information online
 
-- Was heißt sehr starker Einfluss in der Studie: Korrelation übersetzen Effekt Größen anschauen
-- Wer war empfänglich?
-- Information von wissenschaftlern bekommen: glaubwürdiger
-
-- Allgemein zeigt die Forschung aber, dass individuelle Online Interventionen nicht das Problem lösen werden. 
+- 86% mehr glauben der Wissenschaft, dass Klimawandel ein große Gefahr und Menschgemacht ist. 60.000 Leute, 63 Länder. 
+    - In Österreich sogar 82%. 
+    - Land mit niedrigster Zustimmung: 73% (USA 76%)
+- Allgemein stimme ich aber zu, dass die Forschung zeigt, dass individuelle Online Interventionen nicht das Problem lösen werden. Das stimmt. 
 
 Gesamtbild an Studien wichtig
 
@@ -96,18 +95,13 @@ Gesamtbild an Studien wichtig
 
 ## Bei einigen Teilnehmenden probierte das Team Kontramaßnahmen, wie ihnen beispielsweise vor den Falschinformationen echte, geprüfte Informationen zu geben. Das Ergebnis: Sie zeigen kaum Wirkung. Warum ist es so schwer, mit der Wahrheit gegen die Lüge anzukommen?
 
-- Wenig Wirkung: kleine Wirkung
-- Nicht überraschend
-- Weltbild viel wichtiger als eine kurze online info - glücklicherweise!!!
+- Wenig Wirkung: kleine Wirkung, Nicht überraschend
+- Unser Weltbild hat einen viel stärkeren Einfluss auf unsere Sichtweise, als kurze Information online: Effekt von Interventionen erwartet. glücklicherweise!!!
 - Viele Lügen sind sehr leicht zu entlarven, grundsätzlich sind Menschen nicht dumm.
-    - Wir überprüfen: Quelle, Plausibilität mit Weltbild, und X
+    - Wir überprüfen: Quelle, Plausibilität mit Weltbild
 - Falschinfo extra gemacht, um aktuelle Weltsicht mancher Menschen zu bestätigen, deswegen ist sie erfolgreich
 - Diese "Lügen" beziehen sich auf Sichtweisen, die sehr intuitiv sind. 
     - Beispiel: Impfung/Spritze/Krankheit, CO2 ist unsichtbar - nicht greifbar
-- 86% mehr glauben der Wissenschaft, dass Klimawandel ein große Gefahr und Menschgemacht ist. 60.000 Leute, 63 Länder. 
-    - In Österreich sogar 82%. 
-    - Land mit niedrigster Zustimmung: 73% (USA 76%)
-
 - Studien Autoren empfehlen, wie ich:  systemische Interventionen wie Content Moderation, Algorithmen, User sperren die wiederholt Fehlinfo verbreiten, Interaktionsmetriken ändern. 
 
 ## Können nicht auch echte Informationen über den Klimawandel sehr viele Emotionen hervorrufen, also einen ähnlichen Effekt haben? Ich würde meinen, dass es ja schon sehr bewegend und aufwühlend ist, dass sich zum Beispiel die Weltmeere erwärmen, Arten im großen Stil aussterben oder einige Orte auf der Welt künftig nicht mehr bewohnbar sind.
@@ -116,7 +110,7 @@ Natürlich können sie das. Diese Veränderungen sind einfach langsamer, überra
 Menschen sind aber nicht dumm, lassen sich nicht leicht manipulieren: erkennen Emotion/Sensationalismus mittlerweile als Zeichen von geringer Glaubwürdigkeit von Nachrichten
 Ich wäre deswegen vorsichtig, mit "Manipulationsversuchen" via Emotion. 
 
-Wichtig: Optimismus, konkrete Lösungen aufzeigen, wissen, wie diese gerecht umgesetzt werden können
+Wichtig: Optimismus, konkrete und praktikable Lösungen aufzeigen, wissen, wie diese gerecht umgesetzt werden können
 
 Hannah Richtchie: Hoffnung für verzweifelte: Wie wir als erste Generation die Erde zu einem besseren Ort machen
 
@@ -133,16 +127,17 @@ Wichtigster Fokus: Misinformation ist ein Symptom von geringem Vertrauen in die 
     - langfristigere statt populistische Politik
     - Wissenschaft muss zuverlässig sein
     - medizinische Versorgung und Ernst nehmen von Menschen
-    - Männer auch ernst nehmen
+    - gesellschaftliche Verlierer ernst nehmen, Repräsentation bieten
 
 ## Muss in Schulen mehr über Falschinformationen aufgeklärt werden? 
 
 - Sicher gut, reicht aber nicht
 - Verständnis von Wissenschaft, kumulative Studien, warum wissenschaft mehr ist als eine Meinung
-- Verständnis von Journalismus, Praxis, Vertrauen in Medien stärken 
+- Verständnis von Journalismus, Praxis, Vertrauen in Medien stärken
 
 Falschinformation hat es immer gegeben, Menschen können damit umgehen
 
-## Nicht vergessen: 
+## Notizen
 
-Buch: Hoffnung für Verzweifelte von Hannah Ritchie
+- Ob Information Schaden verursacht ist wichtig: das kann sie auch, ohne falsch zu sein, sehr selektiv/verzerrt, und dadurch zu falschen Schlussfolgerungen führen - das ist das viel größere Problem, als die tatsächlichen sogenannten "Fake News".
+
