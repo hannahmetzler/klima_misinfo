@@ -20,12 +20,10 @@ title-slide-attributes:
 editor: visual
 ---
 
-
 ## Soziale Medien sind (k)ein Klimakiller {background-color="#1f5c99" .center }
-<br>
+<br><br><br>
 
 ### Hannah Metzler
-<br>
 *Complexity Science Hub & Medizinische Universität Wien*
 <br>
 
@@ -48,9 +46,9 @@ Slides: [hannahmetzler.eu/klimaaktiv](http://hannahmetzler.eu/klimaaktiv)
 - Falschinformation (Misinformation)
 - Desinformation
 
-## Umfrage zu Falschinformationen & persönlichen Erfahrungen 
+## Umfrage: <br> Ihre Erfahrungen mit Falschinformation
 
-Link: <PollEv.com/trueland909/> 
+<https://PollEv.com/trueland909> 
 
 ![](images/qr_umfrage.png)
 
@@ -59,35 +57,46 @@ Link: <PollEv.com/trueland909/>
 - Glauben Sie, dass andere leichtgläubiger sind als Sie?
 - Haben Sie schonmal versucht eine Person von etwas zu überzeugen, dass diese noch nicht glaubt? Wie war das?
 - Hat jemand schonmal versucht Sie von was zu überzeugen? Wie war das?
+
+Response Link, aber nicht results: 
+<iframe src="https://www.polleverywhere.com/surveys/mUSL1V8BEpgKu0RhV07R1"  width="800px" height="600px"></iframe>
 :::
 
+::: footer
+<https://www.polleverywhere.com/>
+:::
+
+## Sorgen zu Falschinformation
+
+![](https://assets.weforum.org/editor/responsive_large_webp_aeC_G_iMAyHfIYbpadABhxYrrTC3wvRnO45i1VeBOCo.webp)
 ---
 
-<iframe src="https://pollev-embeds.com/surveys/6uoHMMTdv3A4OC6Xt5A3U/respond" width="800px" height="600px"></iframe>
+### "Andere können Falschinformation schlechter erkennen"
+
+- Andere für weniger fähig halten
+- Mehr Sorgen über die Gefahr von Falschinformation
+
+
+![](images/Figure1_Altay_2023_3rd_person_effect.svg)
+
+::: footer
+Altay & Acerbi [(2023)]( https://doi.org/10.1177/14614448231153379), Figure 1
+:::
+
+## Aber warum hörst du nicht zu? 
+
+![](https://images.pexels.com/photos/7640471/pexels-photo-7640471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ::: notes
-Fragen
+Überzeugen im Alltag ist schwer
 :::
 
-
----
-
-<iframe src="https://www.polleverywhere.com/surveys/mUSL1V8BEpgKu0RhV07R1"  width="800px" height="600px"></iframe>
-
-Test
-
-## Überzeugen im Alltag: Aber warum hörst du nicht zu?
-
-Bild Bar?
-
-## Zusammenfassung
-
--   Sorgen sind weit verbreitet, WHO 1. Gefahr
--   Andere sind leichtläubig und manipulierbar (3. Person Effekt - Sacha Altay Paper)
--   Im Alltag ist es allerdings schwer, andere von etwas zu überzeugen.
+::: footer
+[Photo by Yan Krukau from Pexels](https://www.pexels.com/photo/a-man-angry-in-a-workplace-7640471/)
+:::
 
 <center>
-### Wie passt das alles zusammen?
+## Wie passt das alles zusammen?
 </center>
 
 ## Warum ist überzeugen so schwierig?
@@ -269,11 +278,21 @@ Uscinkski et al. [ 2022](https://journals.plos.org/plosone/article?id=10.1371/jo
 
 # Literaturempfehlungen
 
-\![Ritchie\](<https://www.booketybookbooks.co.nz/cdn/shop/files/9781784745011_400x.jpg?v=1705613348>)
+![Ritchie\](<https://www.booketybookbooks.co.nz/cdn/shop/files/9781784745011_400x.jpg?v=1705613348>)
 
-\<img src="https://cdn.penguin.co.uk/dam-assets/books/9781784745004/9781784745004-jacket-large.jpg" width="768" /\>
+<img src="https://cdn.penguin.co.uk/dam-assets/books/9781784745004/9781784745004-jacket-large.jpg" width="768" />
 
 Hugo Mercier: Not born yesterday (Misinformation, Propaganda) - Christopher Bail: The social media prism (Polarisierung, Verzerrte Wirklichkeit)
+
+## Kurzgesagt zu sozialen Medien
+
+```{=html}
+<iframe width="560" height="315" src="https://youtu.be/fuFlMtZmvY0?si=lU02lQlj1J8OrSKG"></iframe>
+```
+
+
+
+
 
 ## Blog & Artikel
 
