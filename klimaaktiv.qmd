@@ -46,24 +46,22 @@ Slides: [hannahmetzler.eu/klimaaktiv](http://hannahmetzler.eu/klimaaktiv)
 - Falschinformation (Misinformation)
 - Desinformation
 
-## Umfrage: <br> Ihre Erfahrungen mit Falschinformation
+---
 
-<https://PollEv.com/trueland909> 
+## Ihre Erfahrungen mit Falschinformation
 
-![](images/qr_umfrage.png)
+<iframe src="https://directpoll.com/r?XDbzPBd3ixYqg8KQZr69JTFFxSLn1qRPIzm1AiuiGgDkUoT"  width="800px" height="600px"></iframe>
+
 
 ::: notes
+Umfrage: 
 - Machen Sie sich Sorgen wegen Misinformation zu Klimawandel auf Sozialen Medien?
 - Glauben Sie, dass andere leichtgläubiger sind als Sie?
 - Haben Sie schonmal versucht eine Person von etwas zu überzeugen, dass diese noch nicht glaubt? Wie war das?
 - Hat jemand schonmal versucht Sie von was zu überzeugen? Wie war das?
 
-Response Link, aber nicht results: 
-<iframe src="https://www.polleverywhere.com/surveys/mUSL1V8BEpgKu0RhV07R1"  width="800px" height="600px"></iframe>
-:::
-
-::: footer
-<https://www.polleverywhere.com/>
+Admin link: https://directpoll.com/c?XDVhEtstuCXg965A0VIeZbzsdKDY0LkdJSsDS1
+Results and voting link: shown at link above (on the slide)
 :::
 
 ## Sorgen zu Falschinformation
@@ -71,10 +69,10 @@ Response Link, aber nicht results:
 ![](https://assets.weforum.org/editor/responsive_large_webp_aeC_G_iMAyHfIYbpadABhxYrrTC3wvRnO45i1VeBOCo.webp)
 ---
 
-### "Andere können Falschinformation schlechter erkennen"
+## "Andere können Falschinformation schlechter erkennen"
 
-- Andere für weniger fähig halten
-- Mehr Sorgen über die Gefahr von Falschinformation
+- Andere für weniger fähig halten <br>
+$\rightarrow$ Mehr Sorgen über die Gefahr von Falschinformation
 
 
 ![](images/Figure1_Altay_2023_3rd_person_effect.svg)
