@@ -334,6 +334,11 @@ Social media erhöhen politisches Wissen (Abstinence studies)
 - Neue Platformen designt für depolarisierende Diskussionen
 - Politische Einstellungen kommen von vertrauenswürdigen Menschen aus dem Alltag [Burt 1999](https://doi.org/10.1177/000271629956600104), [Watts & Doods, 2007](https://doi.org/10.1086/518527), [Bail, 2021](https://press.princeton.edu/books/hardcover/9780691203423/breaking-the-social-media-prism)
 
+::: footer
+Metzler & Garcia (2023) - nächste slides auch
+:::
+
+
 ## Platform Design 
 
 - Anonymität depolarisiert: Ideen vor Identität stellen [Combs et al. 2022](https://osf.io/cwgu5), [Builbeault et al., 2018](https://www.pnas.org/doi/full/10.1073/pnas.1722664115)
@@ -376,15 +381,15 @@ Polarisierend: Werte erinnern - erreicht die andere Seite besser
 - Nicht von Clicks täuschen lassen: Qualität ist wichtig, damit Menschen wirklich mit Information interagieren (Ezra Klein)
 - Ursachen des Klimawandels erklären erhöht Akzeptanz von Maßnahmen (check Ref in Lewandowski 2021)
 - [Werte & Weltsicht](https://doi.org/10.1111/spc3.12501) & [Kultur](https://ideas.repec.org/a/spr/climat/v148y2018i1d10.1007_s10584-018-2192-4.html) berücksichtigen
-    - Die Natur erhalten
-    - Miliär als Chance für Arme
-    - Patriotische & stolze (homosexuelle) Soldaten...
+- Bsp: Die Natur erhalten, Miliär als Chance für Arme, patriotische (homosexuelle) Soldaten...
 
 ::: footer
 [Lewandowsky 2021](https://doi.org/10.1146/annurev-publhealth-090419-102409); 
 :::
 
 ## Für Neugierige
+
+### Bücher
 
 :::: columns
 ::: {.column width="33%"}
