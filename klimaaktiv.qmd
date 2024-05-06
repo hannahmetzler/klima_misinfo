@@ -11,42 +11,47 @@ format:
     #incremental: true
     aspect-ratio: 16:9
     slide-number: true
-title-slide-attributes:
-    data-background-color: "#1f5c99"
+# title-slide-attributes:
+#     data-background-color: "#1f5c99"
 #     data-background-size: cover
 #     data-background-opacity: "0.5"
-
 #editor
 editor: visual
 ---
 
-## Soziale Medien sind (k)ein Klimakiller {background-color="#1f5c99" .center }
-<br><br><br>
+## Soziale Medien sind (k)ein Klimakiller {.center}
+### Der Einfluss von Algorithmen, Echokammern und KI auf den digitalen Diskurs und was zu tun ist.
+<br>
 
-### Hannah Metzler
+**Hannah Metzler**
+<br>
 *Complexity Science Hub & Medizinische Universität Wien*
 <br>
 
 :::: {.columns}
 
-::: {.column width="70%"}
-<br>
+::: {.column width="65%"}
 Webinar am 8. Mai 2024
 
 Slides: [hannahmetzler.eu/klimaaktiv](http://hannahmetzler.eu/klimaaktiv)
 :::
 
-::: {.column width="30%"}
+::: {.column width="35%"}
 ![](logos/logo_klimaaktiv.png)
 :::
 ::::
 
+
+
 ## Was ist Falschinformation?
 
-- Falschinformation (Misinformation)
-- Desinformation
+![](images/fake-news-3801637.svg){width=80%}
 
----
+### Falsch oder irreführend
+* Falschinformation: Unabhängig von Intention
+* Desinformation: Intentional verbreitet
+
+* Verschiedene Formen: Fake News, Verschwörungsmythen...
 
 ## Ihre Erfahrungen mit Falschinformation
 
@@ -55,10 +60,10 @@ Slides: [hannahmetzler.eu/klimaaktiv](http://hannahmetzler.eu/klimaaktiv)
 
 ::: notes
 Umfrage: 
-- Machen Sie sich Sorgen wegen Misinformation zu Klimawandel auf Sozialen Medien?
-- Glauben Sie, dass andere leichtgläubiger sind als Sie?
-- Haben Sie schonmal versucht eine Person von etwas zu überzeugen, dass diese noch nicht glaubt? Wie war das?
-- Hat jemand schonmal versucht Sie von was zu überzeugen? Wie war das?
+Machen Sie sich Sorgen wegen Falschinformationen zum Klimawandel auf sozialen Medien?
+Glauben Sie, dass andere Menschen im Durschnitt leichter auf Falschinformationen hereinfallen als Sie?
+Bei polarisierenden Themen: Wie schwierig ist es normalerweise, wenn Sie versuchen jemanden von Ihrer Meinung zu überzeugen?
+Wie ist das, wenn jemand versucht Sie von etwas zu überzeugen, dass Sie nicht glauben? (Mehrere Antworten möglich)
 
 Admin link: https://directpoll.com/c?XDVhEtstuCXg965A0VIeZbzsdKDY0LkdJSsDS1
 Results and voting link: shown at link above (on the slide)
@@ -105,9 +110,11 @@ Altay & Acerbi [(2023)]( https://doi.org/10.1177/14614448231153379), Figure 1
     -   glauben Sie das?
     -   ändern Sie ihr Verhalten?
 
-### Menschen sind nicht dumm! Warum?
+## Menschen sind nicht dumm! Warum?
 
 -   Bild der Evolution (Affen Kommunikation)
+
+https://images.pexels.com/photos/17989025/pexels-photo-17989025/free-photo-of-two-chimpanzees-on-tree.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 
 ::: {.notes} 
 in allen Spezies wahr: damit sich Kommunikation entwickelt, muss sie im Durchschnitt für den Sender und den Empfänger etwas nützen. Individuen die andere in die Irre führen: leicht gläubig Was passiert mit denen? Die Sterben eher aus. Wer bleibt übrig? Die, die nichts glauben.
@@ -207,6 +214,8 @@ Uscinkski et al. [ 2022](https://journals.plos.org/plosone/article?id=10.1371/jo
 
 ## Dynamik auf Social Media
 
+- Feedback Kreislauf aus sozialer Identität, Suche nach sozialem Status, und politischer Polarisierung (Bail 2021)
+
 -   Social Media prism: verzerrtes Bild der Realität
 - Extreme Meinungen sind sichtbar
 - Moderate melden sich nicht zu Wort
@@ -241,58 +250,105 @@ Uscinkski et al. [ 2022](https://journals.plos.org/plosone/article?id=10.1371/jo
 
 # Was tun?
 
-## Im Alltag
+## Gesellschaft & Politik: Die großen Probleme lösen
 
-- Mythen rund um Polarisierung abbauen
-- Social media, Algorithmen und Co.: Verantwortung übernehmen
-
--   Online: Qualität ist wichtig, nicht nur Clicks, damit Menschen wirklich mit Information interagieren
-
--   Argumente wirken (Mercier, Beispiele aus Lewandoswky 2021: Explaining causes of climate change improves acceptance.)
-
--   Kommunikation über Klimawandel erhöht Vertrauen in die Wissenschaft
-
--   Culturally aligned messages and messengers are more likely to be successful ([Lewandowsky 2021](https://doi.org/10.1146/annurev-publhealth-090419-102409))
-
-    -   Werte Beispiel: conserving nature
-
--   Social Media Algorithmen: Übereinstimmung betonen (Bail ABM paper)
-
--   Politik: Eliten haben einen starken Effekt auf die öffentliche Meinung
-
-- Good faith discussions: das beste annehmen, Neugier
-
-## Die großen Probleme lösen
-
-- Ungleichheit
-- Trasparente & inklusive Institutionen (+accountability)
+- Politik: Eliten haben einen starken Effekt auf die öffentliche Meinung
+  - Kritik der eigenen Seite
+- Ungleichheit verringern [Turchin, 2023](https://www.thalia.at/shop/home/artikeldetails/A1066136858)
+- Trasparente & inklusive Institutionen (+ accountability)
 - Transparente Kommunikation von Politikern & Experten, Unsicherheit benennen
 - Mitbeteiligung an Entscheidungsprozessen
 
+::: notes
+- opinion leaders: ch 8 ref 33, resonate most with the other side if they criticize their own party most often
+:::
 
-# Points to maybe include
+## Social Media Platformen
 
-- Conspiracies have not increased (Uscinski 2022)
+- Neue Platformen designt für depolarisierende Diskussionen
+- Politische Einstellungen kommen von vertrauenswürdigen Menschen aus dem Alltag [Burt 1999](https://doi.org/10.1177/000271629956600104), [Watts & Doods, 2007](https://doi.org/10.1086/518527), [Bail, 2021](https://press.princeton.edu/books/hardcover/9780691203423/breaking-the-social-media-prism)
 
-# Literaturempfehlungen
+### Design 
 
-![Ritchie\](<https://www.booketybookbooks.co.nz/cdn/shop/files/9781784745011_400x.jpg?v=1705613348>)
+- Anonymität depolarisiert: Ideen vor Identität stellen [Combs et al. 2022](https://osf.io/cwgu5), [Builbeault et al., 2018](https://www.pnas.org/doi/full/10.1073/pnas.1722664115)
+- Kleinere Sub-Communities für verschiedene Zwecke
+- Farb-Buttons, die Postingverhalten anderer anzeigen
+- Identität verifizieren bei Registrierung
 
-<img src="https://cdn.penguin.co.uk/dam-assets/books/9781784745004/9781784745004-jacket-large.jpg" width="768" />
+## Algorithmen ranking 
 
-Hugo Mercier: Not born yesterday (Misinformation, Propaganda) - Christopher Bail: The social media prism (Polarisierung, Verzerrte Wirklichkeit)
+- Status für User/Posts die Übereinstimmung betonen [Törnberg et al., 2023](http://arxiv.org/abs/2310.05984); [Wojcik et al., 2022](http://arxiv.org/abs/2210.15723)
+- Kleine Schritte fördern: Vorschläge innerhalb des Akzeptanz-Intervals
+- Vertrauenswürdige Quellen boosten
+- [User Präferenzen berücksichtigen](https://doi.org/10.1177/1745691623119039)
+- Nachfrage & Tipps vor dem Posten
 
-## Kurzgesagt zu sozialen Medien
+::: notes
+User wollen keine polarisierenden Posts, sondern positive, korrekte, nuancierte und etwas lernen
+Frikition: Zeithindernis
+Toxisch: Empathie Prompts
+Polarisierend: Werte erinnern - erreicht die andere Seite besser
+:::
 
-```{=html}
-<iframe width="560" height="315" src="https://youtu.be/fuFlMtZmvY0?si=lU02lQlj1J8OrSKG"></iframe>
+## Was können Sie selbst tun?
+
+- Sich der scheinbaren Polarisierung bewusst werden: (Social) Medien zeigen nicht die gesellschaftliche Wahrheit
+- Wie präsentieren Sie sich auf Social Media? Moderate Meinungen sichtbar machen
+- Kleine Schritte machen 
+- Good faith discussions: 
+  - Zuhören und Nachfragen
+  - über [persönliche Erfahrungen](https://www.pnas.org/doi/10.1073/pnas.2008389118) sprechen
+  - über [Nicht-Politisches](https://doi.org/10.1093/poq/nfy014) sprechen
+  - [Werte/Weltsicht](https://doi.org/10.1111/spc3.12501) der anderen Seite ansprechen
+
+## In der Kommunikation
+
+- Menschen sind nicht dumm: [Argumente wirken](https://doi.org/10.2307/j.ctvn1tbqq)
+- Kommunikation über Klimawandel erhöht Vertrauen in die Wissenschaft
+- Nicht von Clicks täuschen lassen: Qualität ist wichtig, damit Menschen wirklich mit Information interagieren (Ezra Klein)
+- Ursachen des Klimawandels erklären erhöht Akzeptanz von Maßnahmen (check Ref in Lewandowski 2021)
+- [Werte & Weltsicht](https://doi.org/10.1111/spc3.12501) & [Kultur](https://ideas.repec.org/a/spr/climat/v148y2018i1d10.1007_s10584-018-2192-4.html) berücksichtigen  Culturally aligned messages and messengers are more likely to be successful ()
+    - Die Natur erhalten
+    - Miliär als Chance für Arme
+    - Patriotische & stolze (homosexuelle) Soldaten...
+
+::: footer
+[Lewandowsky 2021](https://doi.org/10.1146/annurev-publhealth-090419-102409); 
+:::
+
+## Für Neugierige
+
+:::: columns
+::: {.column width="33%"}
+```{r, echo=FALSE, out.width=200}
+knitr::include_graphics("images/ritchie_book_deutsch.jpg")
 ```
+[Ritchie, 2023](https://www.thalia.at/shop/home/artikeldetails/A1069948591): Nachhaltigkeit & Klimawandel
+:::
 
+::: {.column width="33%"}
+```{r, echo=FALSE, out.width=200}
+knitr::include_graphics("images/mercier_book.jpeg")
+```
+[Mercier, 2021](https://www.jstor.org/stable/j.ctvn1tbqq): Misinformation & Propaganda
+:::
 
+::: {.column width="33%"}
+```{r, echo=FALSE, out.width=200}
+knitr::include_graphics("images/bail_book.avif")
+```
+[Bail, 2021](https://www.chrisbail.net/nm): Polarisierung & Social Media
+:::
 
+::::
 
+## Kurzes
 
-## Blog & Artikel
-
+- Kurzgesagt Video: [The Internet is Worse Than Ever – Now What?](https://youtu.be/fuFlMtZmvY0?si=lU02lQlj1J8OrSKG)
 - Manvir Singh (2024) [Don't believe what they are telling you about misinformation.](https://www.newyorker.com/magazine/2024/04/22/dont-believe-what-theyre-telling-you-about-misinformation) The New Yorker. 
  - Dan Williams (2024) [AI-based disinformation is probably not a major threat to democracy](https://www.conspicuouscognition.com/p/ai-based-disinformation-is-probably)
+ 
+::: notes
+Points to maybe include
+- Conspiracies have not increased (Uscinski 2022)
+:::
