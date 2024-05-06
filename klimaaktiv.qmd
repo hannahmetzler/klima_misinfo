@@ -323,30 +323,66 @@ Polarisierend: Werte erinnern - erreicht die andere Seite besser
 ```{r, echo=FALSE, out.width=200}
 knitr::include_graphics("images/ritchie_book_deutsch.jpg")
 ```
-[Ritchie, 2023](https://www.thalia.at/shop/home/artikeldetails/A1069948591): Nachhaltigkeit & Klimawandel
+[Ritchie, 2023](https://www.thalia.at/shop/home/artikeldetails/A1069948591)
+Nachhaltigkeit & Klimawandel
 :::
 
 ::: {.column width="33%"}
 ```{r, echo=FALSE, out.width=200}
 knitr::include_graphics("images/mercier_book.jpeg")
 ```
-[Mercier, 2021](https://www.jstor.org/stable/j.ctvn1tbqq): Misinformation & Propaganda
+[Mercier, 2021](https://www.jstor.org/stable/j.ctvn1tbqq)
+Misinformation & Propaganda
 :::
 
 ::: {.column width="33%"}
 ```{r, echo=FALSE, out.width=200}
 knitr::include_graphics("images/bail_book.avif")
 ```
-[Bail, 2021](https://www.chrisbail.net/nm): Polarisierung & Social Media
+[Bail, 2021](https://www.chrisbail.net/nm)
+Polarisierung & Social Media
 :::
 
 ::::
 
-## Kurzes
+## {.smaller}
 
-- Kurzgesagt Video: [The Internet is Worse Than Ever – Now What?](https://youtu.be/fuFlMtZmvY0?si=lU02lQlj1J8OrSKG)
-- Manvir Singh (2024) [Don't believe what they are telling you about misinformation.](https://www.newyorker.com/magazine/2024/04/22/dont-believe-what-theyre-telling-you-about-misinformation) The New Yorker. 
- - Dan Williams (2024) [AI-based disinformation is probably not a major threat to democracy](https://www.conspicuouscognition.com/p/ai-based-disinformation-is-probably)
+:::: columns
+::: {.column width="50%"}
+### Für Zwischendurch
+
+[Kurzgesagt Video](https://youtu.be/fuFlMtZmvY0?si=lU02lQlj1J8OrSKG)
+
+```{r}
+knitr::include_graphics("images/in_a_nutshell.png")
+```
+
+[Podcast](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news)
+
+```{r}
+knitr::include_graphics("images/derstandard_podcast.png")
+```
+:::
+::: {.column width="50%"}
+
+[Singh, 2024](https://www.newyorker.com/magazine/2024/04/22/dont-believe-what-theyre-telling-you-about-misinformation) (The New Yorker)
+
+```{r, fig.align='right'}
+knitr::include_graphics("images/singh2024.png")
+```
+
+[Williams, 2024](https://www.conspicuouscognition.com/p/ai-based-disinformation-is-probably) (University of Sussex)
+
+```{r, fig.align='right'}
+knitr::include_graphics("images/williams2024.png")
+```
+
+:::
+::::
+
+::: footer
+:::
+
  
 ::: notes
 Points to maybe include
