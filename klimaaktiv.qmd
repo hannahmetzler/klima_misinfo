@@ -21,7 +21,7 @@ editor: visual
 
 ## Soziale Medien sind (k)ein Klimakiller {.center}
 ### Der Einfluss von Algorithmen, Echokammern und KI auf den digitalen Diskurs und was zu tun ist.
-<br>
+<br><br>
 
 **Hannah Metzler**
 <br>
@@ -35,23 +35,21 @@ Webinar am 8. Mai 2024
 
 Slides: [hannahmetzler.eu/klimaaktiv](http://hannahmetzler.eu/klimaaktiv)
 :::
-
 ::: {.column width="35%"}
 ![](logos/logo_klimaaktiv.png)
 :::
 ::::
 
-
-
 ## Was ist Falschinformation?
-
-![](images/fake-news-3801637.svg){width=80%}
 
 ### Falsch oder irreführend
 * Falschinformation: Unabhängig von Intention
 * Desinformation: Intentional verbreitet
 
 * Verschiedene Formen: Fake News, Verschwörungsmythen...
+
+![](images/fake-news-3801637.png){.r-stretch}
+
 
 ## Ihre Erfahrungen mit Falschinformation
 
@@ -65,7 +63,7 @@ Glauben Sie, dass andere Menschen im Durschnitt leichter auf Falschinformationen
 Bei polarisierenden Themen: Wie schwierig ist es normalerweise, wenn Sie versuchen jemanden von Ihrer Meinung zu überzeugen?
 Wie ist das, wenn jemand versucht Sie von etwas zu überzeugen, dass Sie nicht glauben? (Mehrere Antworten möglich)
 
-Admin link: https://directpoll.com/c?XDVhEtstuCXg965A0VIeZbzsdKDY0LkdJSsDS1
+Admin link: <https://directpoll.com/c?XDVhEtstuCXg965A0VIeZbzsdKDY0LkdJSsDS1>
 Results and voting link: shown at link above (on the slide)
 :::
 
@@ -86,7 +84,7 @@ $\rightarrow$ Mehr Sorgen über die Gefahr von Falschinformation
 Altay & Acerbi [(2023)]( https://doi.org/10.1177/14614448231153379), Figure 1
 :::
 
-## Aber warum hörst du nicht zu? 
+## Überzeugen im Alltag ist schwierig 
 
 ![](https://images.pexels.com/photos/7640471/pexels-photo-7640471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
@@ -98,23 +96,21 @@ Altay & Acerbi [(2023)]( https://doi.org/10.1177/14614448231153379), Figure 1
 [Photo by Yan Krukau from Pexels](https://www.pexels.com/photo/a-man-angry-in-a-workplace-7640471/)
 :::
 
-<center>
-## Wie passt das alles zusammen?
-</center>
+# Wie passt das alles zusammen?
+
+# Unsere Studie hier als überleitung?
 
 ## Warum ist überzeugen so schwierig?
+<center>
+### Menschen sind nicht dumm!
+</center>
 
 -   Grundzustand des Menschen ist Skepsis, nicht Leichtgläubigkeit.
 -   Einfach alles glauben macht verletzlich - warum sollte ich das tun?
--   Beispiel - Foto: Jemand auf der Straße erzählt ihnen was
-    -   glauben Sie das?
-    -   ändern Sie ihr Verhalten?
-
-## Menschen sind nicht dumm! Warum?
 
 -   Bild der Evolution (Affen Kommunikation)
 
-https://images.pexels.com/photos/17989025/pexels-photo-17989025/free-photo-of-two-chimpanzees-on-tree.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+[Bild](https://images.pexels.com/photos/17989025/pexels-photo-17989025/free-photo-of-two-chimpanzees-on-tree.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ::: {.notes} 
 in allen Spezies wahr: damit sich Kommunikation entwickelt, muss sie im Durchschnitt für den Sender und den Empfänger etwas nützen. Individuen die andere in die Irre führen: leicht gläubig Was passiert mit denen? Die Sterben eher aus. Wer bleibt übrig? Die, die nichts glauben.
@@ -123,7 +119,7 @@ Damit Kommunikation funktionieren kann, braucht eine Spezies die Fähigkeit, sie
 :::
 
 
-### Menschen haben die Fähigkeit, anderen zu vertrauen
+## Menschen haben die Fähigkeit, anderen zu vertrauen
 
 -   Einzigartig - erlaubt Kommunikation und Kooperation
 -   Weil wir Mechanismen haben, um Kommunikation auf Wahrheit hin zu überprüfen
