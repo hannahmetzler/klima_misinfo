@@ -48,7 +48,7 @@ Slides: [hannahmetzler.eu/klimaaktiv](http://hannahmetzler.eu/klimaaktiv)
 
 * Verschiedene Formen: Fake News, Verschwörungsmythen...
 
-![](images/fake-news-3801637.png){.r-stretch}
+![](images/fake-news-3801637.svg){.r-stretch}
 
 
 ## Ihre Erfahrungen mit Falschinformation
