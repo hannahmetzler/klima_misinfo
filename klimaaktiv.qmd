@@ -8,7 +8,7 @@ format:
     ## Defines the theme of the presentation, both version and style
     theme: [default, custom.scss]
     # incremental slides point by point
-    #incremental: true
+    # incremental: true
     aspect-ratio: 16:9
     slide-number: true
 # title-slide-attributes:
@@ -70,15 +70,13 @@ Results and voting link: shown at link above (on the slide)
 ## Sorgen zu Falschinformation
 
 ![](https://assets.weforum.org/editor/responsive_large_webp_aeC_G_iMAyHfIYbpadABhxYrrTC3wvRnO45i1VeBOCo.webp)
----
 
-## "Andere können Falschinformation schlechter erkennen"
+## Andere für leichtgläubiger halten
 
-- Andere für weniger fähig halten <br>
-$\rightarrow$ Mehr Sorgen über die Gefahr von Falschinformation
+Umso stärker der **dritte Person Effekt** <br>
+$\rightarrow$ Desto mehr Sorgen wegen Falschinformation
 
-
-![](images/Figure1_Altay_2023_3rd_person_effect.svg)
+![](images/Figure1_Altay_2023_3rd_person_effect.svg){.r-stretch}
 
 ::: footer
 Altay & Acerbi [(2023)]( https://doi.org/10.1177/14614448231153379), Figure 1
@@ -96,153 +94,225 @@ Altay & Acerbi [(2023)]( https://doi.org/10.1177/14614448231153379), Figure 1
 [Photo by Yan Krukau from Pexels](https://www.pexels.com/photo/a-man-angry-in-a-workplace-7640471/)
 :::
 
+## Social Media sind verantwortlich! (???)
+
+![](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg){.absolute top=100 right=10 width="230"}
+
+![](https://cdn.pixabay.com/photo/2021/01/30/06/42/tiktok-5962992_1280.png){.absolute top=120 left=30 width="230"}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/800px-2023_Facebook_icon.svg.png){.absolute bottom=30 right=90 width="230"}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/1920px-YouTube_Logo_2017.svg.png){.absolute top=400 right="400" width="300"}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Reddit_wordmark.svg/1920px-Reddit_wordmark.svg.png){.absolute bottom=100 left=50 width="250"}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/800px-X_logo_2023.svg.png){.absolute top=100 left=450 width="200"}
+
 # Wie passt das alles zusammen?
 
-# Unsere Studie hier als überleitung?
+::: notes
+Wie kann es sein, dass Fehlinformation die aktuell größte Gefahr ist, 
+wir aber alle glauben wir fallen selbst nicht auf Misinformation herein, 
+und auch tatsächlich selbst schwer zu überzeugen sind? 
+Und stimmt das, dass Social Media die Verbreitung von Fehlinformation anfeuern?
+:::
 
 ## Warum ist überzeugen so schwierig?
 <center>
 ### Menschen sind nicht dumm!
+
+![](https://cdn.pixabay.com/photo/2014/03/25/16/30/evolution-297234_1280.png){height="270"}
 </center>
 
--   Grundzustand des Menschen ist Skepsis, nicht Leichtgläubigkeit.
--   Einfach alles glauben macht verletzlich - warum sollte ich das tun?
+- Was passiert mit leichtgläubigen Individuen?
+- Voraussetzung für Kommunikation: Vorteile für Sender & Empfänger
 
--   Bild der Evolution (Affen Kommunikation)
+::: footer
+Mercier [2017](https://doi.org/10.1037/gpr0000111), [2020](https://press.princeton.edu/books/hardcover/9780691178707/not-born-yesterday);  <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=297234">Clker-Free-Vector-Images</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=297234">Pixabay</a>
+:::
 
-[Bild](https://images.pexels.com/photos/17989025/pexels-photo-17989025/free-photo-of-two-chimpanzees-on-tree.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+::: {.notes}
+- Einfach alles glauben macht sehr verletzlich, Ausnutzung ist zu einfach: schlechteres Überleben und Fortpflanzungschancen - leichtgläubigkeit entwickelt sich nicht. 
+:::
 
-::: {.notes} 
-in allen Spezies wahr: damit sich Kommunikation entwickelt, muss sie im Durchschnitt für den Sender und den Empfänger etwas nützen. Individuen die andere in die Irre führen: leicht gläubig Was passiert mit denen? Die Sterben eher aus. Wer bleibt übrig? Die, die nichts glauben.
+## Ehrliche Kommunikationssignale
+
+![](https://cdn.pixabay.com/photo/2012/05/07/12/37/gazelle-48331_1280.png){.absolute left=150 top=90 height="270"}
+<br><br><br><br><br><br>
+
+::: {.fragment}
+![](https://cdn.pixabay.com/photo/2012/05/07/05/22/chimpanzee-48026_1280.png){.absolute left=600 top=90 height="270"}
+:::
+
+- Grundzustand des Menschen ist **Skepsis**
+- Fähigkeit zu Vertrauen & Kooperation: einzigartig
+- Möglich wegen Mechanismen, um die Wahrheit zu überprüfen
+
+
+::: footer
+Mercier [2017](https://doi.org/10.1037/gpr0000111), [2020](https://press.princeton.edu/books/hardcover/9780691178707/not-born-yesterday); 
+:::
+
+::: {.notes}
+- Damit sich Kommunikation entwickelt, muss sie im Durchschnitt für den Sender und den Empfänger etwas nützen.
+- Die meisten Tiere glauben sich gar nichts, sie kommunizieren viel weniger als wir
+- Grundzustand Skepsis, Vertrauen & Kooperation brauchen Erklärung
+- Mechanismen: Weltsicht, Vertrauen zum Sender, sozialer Status, Verhalten in der Vergangheit, Vertrauen andere?, gute Argumente
 
 Damit Kommunikation funktionieren kann, braucht eine Spezies die Fähigkeit, sie so zu verarbeiten, dass sie dem Empfänger etwas bringt. Wenn sie nichts bringt, entwickelt sie sich nicht. Deswegen haben viele Tiere keine komplexe Kommunikation und Kooperation - die glauben einander einfach fast nichts.
 :::
 
+## Est ist wichtig, Menschen die Wahrheit zuzutrauen
 
-## Menschen haben die Fähigkeit, anderen zu vertrauen
+:::: columns
+::: {.column width="50%"}
+![](images/kurz_angst_kurier.png)
+:::
+::: {.column width="50%"}
+![](images/kurz_angst_derstandard.png)
 
--   Einzigartig - erlaubt Kommunikation und Kooperation
--   Weil wir Mechanismen haben, um Kommunikation auf Wahrheit hin zu überprüfen
+- Hat kurzfristig funktioniert
+- Verlust des Vertrauens
+- Transparenz notwendig
+:::
+::::
 
-### Es ist wichtig, Menschen die Wahrheit zuzutrauen
+## Emotion = Manipulation? {visibility="hidden"}
 
--   Regierung - Angst - COVID Ausbruch
--   Verlust des Vertrauens
--   Propaganda hat nur sehr kurz funktioniert
+- Falsche & richtige COVID-19 Nachrichten
+- Wie zutreffend ist diese Nachricht?
+- Löst die Nachricht ein Gefühl aus?
+
+<center>
+::: {.fragment}
+
+::: columns
+::: {.column width="40%"}
+![](images/N15.PNG)
+:::
+
+::: {.column width="40%"}
+![](images/NR14.PNG)
+:::
+:::
+
+:::
+
+</center>
+
+::: footer
+Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler [2023](https://psyarxiv.com/udqms/)
+:::
+
+::: notes
+Beispiel dafür, dass menschen nicht so leicht manipulierbar sind
+:::
+
+## Wut bei falschen Nachrichten {visibility="hidden"}
+
+<center>
+:::: columns
+::: {.column width="30%"}
+```{r, out.height=550}
+knitr::include_graphics("images/emo_diff_wut.svg")
+```
+:::
+::: {.column width="70%"}
+
+$\rightarrow$ Menschen mit <br> **schlechter & guter** Urteilsfähigkeit <br>
+
+```{r, out.height=350, fig.align='center'}
+knitr::include_graphics("images/curvi-linear_wut.svg")
+```
+
+:::
+::::
+</center>
+
+::: footer
+Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler [2023](https://psyarxiv.com/udqms/)
+:::
+
+## Warum waren die Menschen wütend? {visibility="hidden"}
+
+:::: columns
+::: {.column width="60%"}
+```{r, out.height=550}
+knitr::include_graphics("images/WordShiftGraph.png")
+```
+:::
+::: {.column width="40%"}
+- Sie erkannten die falschen Nachrichten
+- Widerspruch zur Weltsicht
+
+::: fragment
+Emotion $\neq$ Manipulation
+:::
+:::
+::::
+
+::: footer
+Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler [2023](https://psyarxiv.com/udqms/)
+:::
 
 ## Was heißt das für Misinformation?
 
--   Minimale Überzeugungseffekte
--   Propaganda ist wirklich schwer
--   Ideen nicht gleich Virus
+<center>
+:::: columns
+::: column
+![](https://cdn.pixabay.com/photo/2014/04/02/11/03/idea-305335_1280.png){height="200"}
+![](https://cdn.pixabay.com/photo/2020/05/28/12/52/corona-5231110_1280.png){height="200"}
+:::
+::: column
+<br>
+Ideen verbreiten sich nicht wie Viren
+:::
+::::
+</center>
 
-### Warum glauben Menschen dann so viele falsche Dinge?
-
-- Intuitive und reflektive Überzeugungen
--   Medien Bias (conscipious cognition blog)
--   Populismus: Aufgreifen was Menschen bereits glauben
--   Intuitive "Wahrheiten"
-
-# Klima Misinformation
-
-## Wie groß ist das Problem?
-
-Weltweit: Mehrheit ist besorgt über Klimawandel
-
-<iframe src="https://ourworldindata.org/grapher/share-believe-climate" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"> </iframe>
+- Überzeugungseffekte sind klein, "echte" Propaganda schwer
+- Populismus: Aufgreifen, was Menschen bereits glauben
+- Menschen glauben, was sie glauben, aus guten Gründen
+  - Oft soziale Gründe
 
 ::: footer
-[Ritchie, 2023, Our World in Data](<https://ourworldindata.org/climate-change-support>)
+[Mercier, 2020](https://www.jstor.org/stable/j.ctvn1tbqq); 
+
+Images by <a href="https://pixabay.com/users/iximus-2352783/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5231110">iXimus</a> and <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=305335">Clker-Free-Vector-Images</a> from Pixabay
 :::
 
-### Österreich Polarisierung Klima:
+# Was ist dann das Problem mit sozialen Medien?
 
-<https://www.sora.at/fileadmin/downloads/projekte/2023_FORESIGHT_Praesentation_Hintergrundgespraech_Polarisierung.pdf>
+Konflikte, Laut, toxisch, bilden wir uns das alles ein?
 
-Interventionen - was kann man tun? 63 Länder
+## Algorithmen?
 
-[DOI: 10.1126/sciadv.adj5778](https://doi-org.ez.srv.meduniwien.ac.at/10.1126/sciadv.adj5778)
+- USA Election studies Facebook/Instagram Intro slide
+- Graphik slides Stockholm
+- Google Studie
+- Suche nach FB Gruppen (gonzalez)
+- Youtube Radikalisierungsstudie
 
-### USA
+## Echokammern ?
 
--   72% glauben an Klimawandel vs. 15% nicht
--   58% glauben Klimwandel ist Menschen verursacht vs. 29% nicht
+- Alltag vs. Online
 
-::: footer
-[Leiserowitz et al., 2024](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-beliefs-attitudes-fall-2023/)
-:::
+Konflikte entstehen: 
+-   Breites Pupblikum, Kontext fehlt
 
-### Leben wir in einem Misinformationszeitalter?
-
-- Verschwörungsdenken hat sich nicht erhöht 
-- Keine Evidenz für mehr Misinformation [read](https://www.slowboring.com/p/misinformation-myth)
-- Social Media erhöht politisches Wissen (ref algos, facebook abstinence Asimovic etc)
-  - Algorithmen abdrehen: weniger politisches Wissen
-- Glaube das Klimawandel real und menschengemacht: x % (Ritchie)
-
-::: footer
-Uscinkski et al. [ 2022](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270429); Nyhan [2020](https://www.aeaweb.org/articles?id=10.1257/jep.34.3.220); 
-:::
-
-
-
-## Wer konsumiert Misinformation?
-
--   Partisan
--   Aktive Suche nach Misinformation
--   Niedriges Vertrauen in Gesundheitssystem, politisches System und Wissenschaft
--   Status seeking individuals, using aggression as strategy, need for chaos
-    -   Nichts mehr glauben
--   Menschen beurteilen den Inhalt selbst - Plausiblitätscheck???
-
-
-### Warum? 
-
-- Reale Probleme
-- Status & Privilegien Verlust
-  - Geschlechterkampf
-  - Autos
-  - Globalisierung
-- Ökonomische Ungleichheit [Wohnungsmarkt](https://www.semafor.com/newsletter/04/30/2024/semafor-flagship-blood-and-soil?utm_source=newslettershare&utm_medium=flagship&utm_campaign=flagshipnumbered5#f)
-
-
-# Rolle von Social Media
-
-## Dynamik auf Social Media
-
-- Feedback Kreislauf aus sozialer Identität, Suche nach sozialem Status, und politischer Polarisierung (Bail 2021)
-
--   Social Media prism: verzerrtes Bild der Realität
-- Extreme Meinungen sind sichtbar
-- Moderate melden sich nicht zu Wort
--   Beispiel aus der Schweiz ([Maitra et al., 2023](www.doi.org/10.51685/jqd.2023.008))
+Social media erhöhen politisches Wissen (Abstinence studies)
 
 -   Social media use and beliefs about climate change: Results suggest that using social media for news is associated with a decrease in climate skepticism across the sample. [Diehl et al., 2021](https://doi.org/10.1093/ijpor/edz040)
 
-### Konflikte auf Social Media
+## Social Media verzerren die Wirklichkeit
 
--   Breites Pupblikum, Kontext fehlt
--   Affektive Polarisierung: Gefühle zwischen Gruppen ([Kubin & Sikorski 2021](https://www.tandfonline.com/doi/full/10.1080/23808985.2021.1976070))
+- Extreme Meinungen sind sichtbar
+- Moderate melden sich nicht zu Wort
+- eispiel aus der Schweiz ([Maitra et al., 2023](www.doi.org/10.51685/jqd.2023.008))
+- Scheinbare Polarisierung
+- Verstärkt die affektive Polarisierung: Gefühle zwischen Gruppen ([Kubin & Sikorski 2021](https://www.tandfonline.com/doi/full/10.1080/23808985.2021.1976070))
 
-### Echokammern
+## Wer verbreitet Misinformation?
 
-### Algorithmen
-
-### AI und Misinformation/Propaganda
-
--   Engpass Aufmerksamkeit
--   so viel Info im Netz
--   Personalisiert:
-    -   so viel besser als Menschen kann AI nicht werden, etwas Raum ist hier noch
-    -   Menschen haben nicht so viel Zeit/Aufmerksamkeit - wie macht man das at scale? So viele kämpfen um ihre Aufmerksamkeit
-    -   warum sollten die Bösen da einen Vorteil haben?
-    -   sehr personalisiert: kann man nicht weiter teilen - wir wollen mit anderen über Content reden können
--   AI hilft auch der guten Seite
-
-## Misinformation von oben: Politik und Medien
-
--   Kein großes Problem beim Thema Klima
--   Politiker & Celebrities etc: 20% der Misinformation, aber 69% der Social Media Interaktionen mit Misinformation ([Brennen et al., 2020](https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation))
+- Lobby Ölindustrie
+- Politik: Zusammenhang rechts - Anti Establishment - Anti Wissenschaft - Klimawandel, und Liberalismus (CO2 Regulation)
+- Partisanproblem
 
 # Was tun?
 
@@ -264,7 +334,7 @@ Uscinkski et al. [ 2022](https://journals.plos.org/plosone/article?id=10.1371/jo
 - Neue Platformen designt für depolarisierende Diskussionen
 - Politische Einstellungen kommen von vertrauenswürdigen Menschen aus dem Alltag [Burt 1999](https://doi.org/10.1177/000271629956600104), [Watts & Doods, 2007](https://doi.org/10.1086/518527), [Bail, 2021](https://press.princeton.edu/books/hardcover/9780691203423/breaking-the-social-media-prism)
 
-### Design 
+## Platform Design 
 
 - Anonymität depolarisiert: Ideen vor Identität stellen [Combs et al. 2022](https://osf.io/cwgu5), [Builbeault et al., 2018](https://www.pnas.org/doi/full/10.1073/pnas.1722664115)
 - Kleinere Sub-Communities für verschiedene Zwecke
@@ -303,7 +373,7 @@ Polarisierend: Werte erinnern - erreicht die andere Seite besser
 - Kommunikation über Klimawandel erhöht Vertrauen in die Wissenschaft
 - Nicht von Clicks täuschen lassen: Qualität ist wichtig, damit Menschen wirklich mit Information interagieren (Ezra Klein)
 - Ursachen des Klimawandels erklären erhöht Akzeptanz von Maßnahmen (check Ref in Lewandowski 2021)
-- [Werte & Weltsicht](https://doi.org/10.1111/spc3.12501) & [Kultur](https://ideas.repec.org/a/spr/climat/v148y2018i1d10.1007_s10584-018-2192-4.html) berücksichtigen  Culturally aligned messages and messengers are more likely to be successful ()
+- [Werte & Weltsicht](https://doi.org/10.1111/spc3.12501) & [Kultur](https://ideas.repec.org/a/spr/climat/v148y2018i1d10.1007_s10584-018-2192-4.html) berücksichtigen
     - Die Natur erhalten
     - Miliär als Chance für Arme
     - Patriotische & stolze (homosexuelle) Soldaten...
@@ -327,7 +397,7 @@ Nachhaltigkeit & Klimawandel
 ```{r, echo=FALSE, out.width=200}
 knitr::include_graphics("images/mercier_book.jpeg")
 ```
-[Mercier, 2021](https://www.jstor.org/stable/j.ctvn1tbqq)
+[Mercier, 2020](https://www.jstor.org/stable/j.ctvn1tbqq)
 Misinformation & Propaganda
 :::
 
@@ -381,6 +451,86 @@ knitr::include_graphics("images/williams2024.png")
 
  
 ::: notes
-Points to maybe include
+
+- Feedback Kreislauf aus sozialer Identität, Suche nach sozialem Status, und politischer Polarisierung (Bail 2021)
+
+### Klima Misinformation
+
+### Wie groß ist das Problem?
+
+Weltweit: Mehrheit ist besorgt über Klimawandel
+
+<iframe src="https://ourworldindata.org/grapher/share-believe-climate" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"> </iframe>
+
+::: footer
+[Ritchie, 2023, Our World in Data](<https://ourworldindata.org/climate-change-support>)
+:::
+
+### Österreich Polarisierung Klima:
+
+<https://www.sora.at/fileadmin/downloads/projekte/2023_FORESIGHT_Praesentation_Hintergrundgespraech_Polarisierung.pdf>
+
+Interventionen - was kann man tun? 63 Länder
+
+[DOI: 10.1126/sciadv.adj5778](https://doi-org.ez.srv.meduniwien.ac.at/10.1126/sciadv.adj5778)
+
+### USA
+
+-   72% glauben an Klimawandel vs. 15% nicht
+-   58% glauben Klimwandel ist Menschen verursacht vs. 29% nicht
+
+::: footer
+[Leiserowitz et al., 2024](https://climatecommunication.yale.edu/publications/climate-change-in-the-american-mind-beliefs-attitudes-fall-2023/)
+:::
+
+### Leben wir in einem Misinformationszeitalter?
+
+- Verschwörungsdenken hat sich nicht erhöht 
+- Keine Evidenz für mehr Misinformation [read](https://www.slowboring.com/p/misinformation-myth)
+- Social Media erhöht politisches Wissen (ref algos, facebook abstinence Asimovic etc)
+  - Algorithmen abdrehen: weniger politisches Wissen
+- Glaube das Klimawandel real und menschengemacht: x % (Ritchie)
+
+Uscinkski et al. [ 2022](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270429); Nyhan [2020](https://www.aeaweb.org/articles?id=10.1257/jep.34.3.220); 
+
+## Wer konsumiert Misinformation?
+
+-   Partisan
+-   Aktive Suche nach Misinformation
+-   Niedriges Vertrauen in Gesundheitssystem, politisches System und Wissenschaft
+-   Status seeking individuals, using aggression as strategy, need for chaos
+    -   Nichts mehr glauben
+-   Menschen beurteilen den Inhalt selbst - Plausiblitätscheck???
+
+### Warum? 
+
+- Reale Probleme
+- Status & Privilegien Verlust
+  - Geschlechterkampf
+  - Autos
+  - Globalisierung
+- Ökonomische Ungleichheit [Wohnungsmarkt](https://www.semafor.com/newsletter/04/30/2024/semafor-flagship-blood-and-soil?utm_source=newslettershare&utm_medium=flagship&utm_campaign=flagshipnumbered5#f)
+
+### Warum glauben Menschen dann so viele falsche Dinge?
+
+- Intuitive und reflektive Überzeugungen
+- Medien Bias (conscipious cognition blog)
+
 - Conspiracies have not increased (Uscinski 2022)
+
+## Misinformation von oben: Politik und Medien
+
+-   Kein großes Problem beim Thema Klima
+-   Politiker & Celebrities etc: 20% der Misinformation, aber 69% der Social Media Interaktionen mit Misinformation ([Brennen et al., 2020](https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation))
+
+### AI und Misinformation/Propaganda
+
+-   Engpass Aufmerksamkeit
+-   so viel Info im Netz
+-   Personalisiert:
+    -   so viel besser als Menschen kann AI nicht werden, etwas Raum ist hier noch
+    -   Menschen haben nicht so viel Zeit/Aufmerksamkeit - wie macht man das at scale? So viele kämpfen um ihre Aufmerksamkeit
+    -   warum sollten die Bösen da einen Vorteil haben?
+    -   sehr personalisiert: kann man nicht weiter teilen - wir wollen mit anderen über Content reden können
+-   AI hilft auch der guten Seite
 :::
