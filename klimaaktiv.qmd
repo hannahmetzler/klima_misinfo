@@ -360,14 +360,16 @@ Polarisierend: Werte erinnern - erreicht die andere Seite besser
 
 - Sich der scheinbaren Polarisierung bewusst werden: (Social) Medien zeigen nicht die gesellschaftliche Wahrheit
 - Wie präsentieren Sie sich auf Social Media? Moderate Meinungen sichtbar machen
-- Kleine Schritte machen 
-- Good faith discussions: 
+- Kleine Schritte machen: Aktzeptanz-Intervall
+
+## Persönliche & Online Diskussionen
+
   - Zuhören und Nachfragen
   - über [persönliche Erfahrungen](https://www.pnas.org/doi/10.1073/pnas.2008389118) sprechen
   - über [Nicht-Politisches](https://doi.org/10.1093/poq/nfy014) sprechen
   - [Werte/Weltsicht](https://doi.org/10.1111/spc3.12501) der anderen Seite ansprechen
 
-## In der Kommunikation
+## Kommunikation: Medien
 
 - Menschen sind nicht dumm: [Argumente wirken](https://doi.org/10.2307/j.ctvn1tbqq)
 - Kommunikation über Klimawandel erhöht Vertrauen in die Wissenschaft
