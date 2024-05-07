@@ -8,8 +8,8 @@ format:
     ## Defines the theme of the presentation, both version and style
     theme: [default, custom.scss]
     # incremental slides point by point
-    # incremental: true
-    # aspect-ratio: 16:9
+    incremental: true
+    aspect-ratio: 16:9
     slide-number: true
 # title-slide-attributes:
 #     data-background-color: "#1f5c99"
