@@ -20,25 +20,27 @@ editor: visual
 ---
 
 ## Soziale Medien sind (k)ein Klimakiller {.center}
+
 ### Der Einfluss von Algorithmen, Echokammern und KI auf den digitalen Diskurs und was zu tun ist.
-<br><br>
+<br>
 
 **Hannah Metzler**
 <br>
 *Complexity Science Hub & Medizinische Universität Wien*
 <br>
 
+Klimaaktiv Webinar am 8. Mai 2024
+
 :::: {.columns}
 
-::: {.column width="65%"}
-Webinar am 8. Mai 2024
-
-Slides: [hannahmetzler.eu/klimaaktiv](http://hannahmetzler.eu/klimaaktiv)
+::: {.column width="30%"}
+![](logos/logo_klimaaktiv.png)
 :::
 ::: {.column width="35%"}
-![](logos/logo_klimaaktiv.png)
-![](logos/logo_csh.png)
-![](logos/logo_wwtf.png)
+![](logos/Complexity-Science-Hub-logo-1.png)
+:::
+::: {.column width="33%"}
+![](logos/wwtf.svg)
 :::
 ::::
 
@@ -193,10 +195,13 @@ knitr::include_graphics("images/WordShiftGraph.png")
 :::
 ::: {.column width="40%"}
 - Sie erkannten die falschen Nachrichten
+- Ärger über Verbreitung
 - Widerspruch zur Weltsicht
 
 ::: fragment
-Emotion $\neq$ Manipulation
+<center>
+### Emotion $\neq$ Manipulation
+</center>
 :::
 :::
 ::::
@@ -205,27 +210,78 @@ Emotion $\neq$ Manipulation
 Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler [2023](https://psyarxiv.com/udqms/)
 :::
 
+## Fehlinformation auf sozialen Medien?
 
-## Echokammern ?
-
-- Alltag vs. Online
-
-Konflikte entstehen: 
--   Breites Pupblikum, Kontext fehlt
-
-Social media erhöhen politisches Wissen (Abstinence studies)
-
--   Social media use and beliefs about climate change: Results suggest that using social media for news is associated with a decrease in climate skepticism across the sample. [Diehl et al., 2021](https://doi.org/10.1093/ijpor/edz040)
+- Statistik
+- Eventuell auch zu Klimawandel?
 
 
-## Algorithmen?
+::: notes
+Nicht alles was wir über Emotionen annehmen (Emotion macht irrational), stimmt so. Wirklichkeit ist komplexer.
+Studien auf social media: alle Emotionen zusammen, ohne Gründe für die Emotion zu erforschen
+So haben wir angefangen, Annahmen in Fragen zu stellen, und waren damit nicht allein
+:::
+
+
+## Digitale Echokammern & Filter Bubbles
+
+:::: columns
+::: {.column width="30%"}
+![](https://cdn.pixabay.com/photo/2017/01/13/19/40/family-1978106_1280.png)
+:::
+::: {.column width="70%"}
+- Sind offline [stärker](https://doi.org/10.1093/qje/qjr044) als online
+- Unterschied Rep/Dem für Rep Inhalte (USA): [7.5%](https://doi.org/10.1093/qje/qjr044)-[35%](https://www.science.org/doi/10.1126/science.ade7138)
+
+### Kontakt mit Nachrichten der "Anderen"
+
+- Algorithmen: [kleiner & weniger starker Einfluss](https://www.science.org/doi/full/10.1126/science.aaa1160) als soziales Netzwerk
+- [Gruppen & Pages](https://www.science.org/doi/10.1126/science.ade7138) besonders stark segregiert
+:::
+::::
+
+::: footer
+Gentzkow & Shapiro, 2011; Bakshy et al. 2015; Gonzalez-Bailon et al., 2023
+:::
+
+::: notes
+online Echo Kammer, Lücke zwischen Conservativ/Liberal im Besuchen konservativer Seiten: (7.5%, Gentzkow Shapiro 2011)
+:::
+  
+## Politisches & Nachrichten Wissen
+
+- Social Media haben [positiven Effekt](https://www.nature.com/articles/s41562-022-01460-1)
+- Klimawandel Skepsis: [niedriger in Social Media Usern](https://doi.org/10.1093/ijpor/edz040)
+- Wissen sinkt bei 4 Wochen [Facebook Abstinenz](https://pubs.aeaweb.org/doi/10.1257/aer.20190658)
+
+![](images/allcott2020.svg){width="300"}
+
+
+::: footer
+Alcott et al., [2020](https://pubs.aeaweb.org/doi/10.1257/aer.20190658); 
+Diehl et al., [2021](https://doi.org/10.1093/ijpor/edz040);
+Asimovic et al. [2021](https://www.pnas.org/doi/10.1073/pnas.2022819118)
+:::
+
+## Algorithmen und Radikalisierungspiralen?
 
 - USA Election studies Facebook/Instagram Intro slide
-- Graphik slides Stockholm
-- Google Studie
-- Suche nach FB Gruppen (gonzalez)
-- Youtube Radikalisierungsstudie
+- Facebook Algorithmus: Down-Ranking gleichgesinnter Posts: 53.7% zu 36.2% Kontakt
 
+- Einfluss von [Google's Algorithmus](https://www.nature.com/articles/s41586-023-06078-5) auf Ergebnisse: Suchworte haben viel stärkeren Effekt
+- YouTube: 1 von 100.000 Usern startet bei moderaten und landet bei rechts-extremen Videos (Ribeiro et al. 2021)
+- Klicks für radikale Videos kommen von außerhalb der Platform (Munger & Philipps, 2022)
+
+$\rightarrow$ User haben Handlungsspielraum: Sie suchen gleichgesinnte Inhalte aktiv
+
+## Woher kommen dann die Konflikte? 
+
+- Breites Pupblikum, Kontext fehlt
+- Kontakt mit Extremen Stimmen der anderen Seite
+
+::: footer
+Törnberg 2022
+:::
 
 ## Social Media verzerren die Wirklichkeit
 
