@@ -37,24 +37,64 @@ Slides: [hannahmetzler.eu/klimaaktiv](http://hannahmetzler.eu/klimaaktiv)
 :::
 ::: {.column width="35%"}
 ![](logos/logo_klimaaktiv.png)
+![](logos/logo_csh.png)
+![](logos/logo_wwtf.png)
 :::
 ::::
 
-## Was ist Falschinformation?
+## Outline
 
-### Falsch oder irreführend
-* Falschinformation: Unabhängig von Intention
-* Desinformation: Intentional verbreitet
+- Meine eigene Geschichte, Pandemie, Misinformation & Social Media
+- Gefahr Misinfo & Social Media Umfrage
+- Social Media Mythen
+- Fake News
+  - Unsere Studie
+  - Jula Misinfo %?
+- Echo Kammern so stark - stimmt nicht
+- Algorithmen & Radikalisierung - stimmt nicht
+- Was dann? 
+  - Prisma
+  - soziale Dynamik: großes Publikum
+  - Partisanship, echte Frustration
+- Misinformation minimal (wohin geb ich das)
 
-* Verschiedene Formen: Fake News, Verschwörungsmythen...
+- Was tun?
+- Einstellungen/Verhalten verändern: 
+- Argumente/Kommunikation, Transparenz/Vertrauen
 
-![](images/fake-news-3801637.svg){.r-stretch}
+  - Individuelle User
+  - Gesetzliche Regelungen
+    - DSA
+      - Transparenz von Platformen, Forschungsdatenzugang
+  - Digitales Community Management: Kommunikation
+    - Argumente & Vertrauen
+  - Social Media Platform Design
+  - Gesellschaft: Transparenz & Vertrauen
+- Empfehlungen
 
+## Emotionen & Falschinformation
+
+:::: columns
+::: {.column width="50%"}
+```{r, out.width=330, fig.align='right'}
+knitr::include_graphics("https://www.statnews.com/wp-content/uploads/2020/03/AP_20081549688183.jpg")
+```
+
+:::
+::: {.column width="50%"}
+```{r,out.width=350, fig.align='left'}
+knitr::include_graphics("https://img.sparknews.funkemedien.de/242247716/242247716_1714749900_v16_9_1200.jpeg")
+```
+:::
+::::
+
+![](images/mig-29-1533260_1920.jpg){.absolute bottom=120 left=0 width="255"}
+![](https://media0.faz.net/ppmedia/aktuell/feuilleton/1083995003/1.7264674/mmobject-still_full/nachdem-eine-krankenschwester.jpg){.absolute bottom=80 left=300 width="350"}
+![](https://images.tagesschau.de/image/16004edf-9ab3-42dc-9e1b-7af0ece622ff/AAABjN2UyTQ/AAABjwnlGwo/16x9-1920/us-kapitol-sturm-100.jpg){.absolute bottom=120 left=700 width="350"}
 
 ## Ihre Erfahrungen mit Falschinformation
 
 <iframe src="https://directpoll.com/r?XDbzPBd3ixYqg8KQZr69JTFFxSLn1qRPIzm1AiuiGgDkUoT"  width="800px" height="600px"></iframe>
-
 
 ::: notes
 Umfrage: 
@@ -67,42 +107,140 @@ Admin link: <https://directpoll.com/c?XDVhEtstuCXg965A0VIeZbzsdKDY0LkdJSsDS1>
 Results and voting link: shown at link above (on the slide)
 :::
 
-## Sorgen zu Falschinformation
+
+## Sie sind mit ihren Sorgen nicht allein
 
 ![](https://assets.weforum.org/editor/responsive_large_webp_aeC_G_iMAyHfIYbpadABhxYrrTC3wvRnO45i1VeBOCo.webp)
 
-## Andere für leichtgläubiger halten
+## Social Media sind verantwortlich!
 
-Umso stärker der **dritte Person Effekt** <br>
-$\rightarrow$ Desto mehr Sorgen wegen Falschinformation
+![](https://cdn.pixabay.com/photo/2021/01/30/06/42/tiktok-5962992_1280.png){.absolute top=120 left=30 width="130"}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/800px-X_logo_2023.svg.png){.absolute top=100 left=350 width="120"}
+![](https://cdn.pixabay.com/photo/2018/02/01/18/39/trump-3123765_1280.png){.absolute top=120 left=550 width="200"}
+![](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg){.absolute top=100 right=10 width="130"}
+![](https://cdn.pixabay.com/photo/2014/04/03/10/53/spiral-311612_1280.png){.absolute top=280 left="150" width="250"}
 
-![](images/Figure1_Altay_2023_3rd_person_effect.svg){.r-stretch}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/1920px-YouTube_Logo_2017.svg.png){.absolute top=500 right="400" width="250"}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/800px-2023_Facebook_icon.svg.png){.absolute top=300 right=90 width="130"}
 
-::: footer
-Altay & Acerbi [(2023)]( https://doi.org/10.1177/14614448231153379), Figure 1
+![](https://cdn.pixabay.com/photo/2017/09/08/03/51/corruption-2727571_1280.png){.absolute bottom=50  right="50" width="240"}
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Reddit_wordmark.svg/1920px-Reddit_wordmark.svg.png){.absolute bottom=100 left=50 width="200"}
+
+## Emotion = Manipulation?
+
+- Falsche & richtige COVID-19 Nachrichten
+- Wie zutreffend ist diese Nachricht?
+- Löst die Nachricht ein Gefühl aus?
+
+<center>
+::: {.fragment}
+
+::: columns
+::: {.column width="40%"}
+![](images/N15.PNG)
 :::
 
-## Überzeugen im Alltag ist schwierig 
+::: {.column width="40%"}
+![](images/NR14.PNG)
+:::
+:::
 
-![](https://images.pexels.com/photos/7640471/pexels-photo-7640471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+:::
+
+</center>
+
+::: footer
+Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler [2023](https://psyarxiv.com/udqms/)
+:::
 
 ::: notes
-Überzeugen im Alltag ist schwer
+Beispiel dafür, dass menschen nicht so leicht manipulierbar sind
 :::
+
+## Wut bei falschen Nachrichten 
+
+<center>
+:::: columns
+::: {.column width="30%"}
+```{r, out.height=550}
+knitr::include_graphics("images/emo_diff_wut.svg")
+```
+:::
+::: {.column width="70%"}
+
+$\rightarrow$ Menschen mit <br> **schlechter & guter** Urteilsfähigkeit <br>
+
+```{r, out.height=350, fig.align='center'}
+knitr::include_graphics("images/curvi-linear_wut.svg")
+```
+
+:::
+::::
+</center>
 
 ::: footer
-[Photo by Yan Krukau from Pexels](https://www.pexels.com/photo/a-man-angry-in-a-workplace-7640471/)
+Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler [2023](https://psyarxiv.com/udqms/)
 :::
 
-## Social Media sind verantwortlich! (???)
+## Warum waren die Menschen wütend? 
 
-![](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg){.absolute top=100 right=10 width="230"}
+:::: columns
+::: {.column width="60%"}
+```{r, out.height=550}
+knitr::include_graphics("images/WordShiftGraph.png")
+```
+:::
+::: {.column width="40%"}
+- Sie erkannten die falschen Nachrichten
+- Widerspruch zur Weltsicht
 
-![](https://cdn.pixabay.com/photo/2021/01/30/06/42/tiktok-5962992_1280.png){.absolute top=120 left=30 width="230"}
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/800px-2023_Facebook_icon.svg.png){.absolute bottom=30 right=90 width="230"}
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/1920px-YouTube_Logo_2017.svg.png){.absolute top=400 right="400" width="300"}
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Reddit_wordmark.svg/1920px-Reddit_wordmark.svg.png){.absolute bottom=100 left=50 width="250"}
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/800px-X_logo_2023.svg.png){.absolute top=100 left=450 width="200"}
+::: fragment
+Emotion $\neq$ Manipulation
+:::
+:::
+::::
+
+::: footer
+Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler [2023](https://psyarxiv.com/udqms/)
+:::
+
+
+## Echokammern ?
+
+- Alltag vs. Online
+
+Konflikte entstehen: 
+-   Breites Pupblikum, Kontext fehlt
+
+Social media erhöhen politisches Wissen (Abstinence studies)
+
+-   Social media use and beliefs about climate change: Results suggest that using social media for news is associated with a decrease in climate skepticism across the sample. [Diehl et al., 2021](https://doi.org/10.1093/ijpor/edz040)
+
+
+## Algorithmen?
+
+- USA Election studies Facebook/Instagram Intro slide
+- Graphik slides Stockholm
+- Google Studie
+- Suche nach FB Gruppen (gonzalez)
+- Youtube Radikalisierungsstudie
+
+
+## Social Media verzerren die Wirklichkeit
+
+- Extreme Meinungen sind sichtbar
+- Moderate melden sich nicht zu Wort
+- eispiel aus der Schweiz ([Maitra et al., 2023](www.doi.org/10.51685/jqd.2023.008))
+- Scheinbare Polarisierung
+- Verstärkt die affektive Polarisierung: Gefühle zwischen Gruppen ([Kubin & Sikorski 2021](https://www.tandfonline.com/doi/full/10.1080/23808985.2021.1976070))
+
+## Wer verbreitet Misinformation?
+
+- Lobby Ölindustrie
+- Politik: Zusammenhang rechts - Anti Establishment - Anti Wissenschaft - Klimawandel, und Liberalismus (CO2 Regulation)
+- Partisanproblem
+
 
 # Wie passt das alles zusammen?
 
@@ -173,83 +311,7 @@ Damit Kommunikation funktionieren kann, braucht eine Spezies die Fähigkeit, sie
 :::
 ::::
 
-## Emotion = Manipulation? {visibility="hidden"}
 
-- Falsche & richtige COVID-19 Nachrichten
-- Wie zutreffend ist diese Nachricht?
-- Löst die Nachricht ein Gefühl aus?
-
-<center>
-::: {.fragment}
-
-::: columns
-::: {.column width="40%"}
-![](images/N15.PNG)
-:::
-
-::: {.column width="40%"}
-![](images/NR14.PNG)
-:::
-:::
-
-:::
-
-</center>
-
-::: footer
-Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler [2023](https://psyarxiv.com/udqms/)
-:::
-
-::: notes
-Beispiel dafür, dass menschen nicht so leicht manipulierbar sind
-:::
-
-## Wut bei falschen Nachrichten {visibility="hidden"}
-
-<center>
-:::: columns
-::: {.column width="30%"}
-```{r, out.height=550}
-knitr::include_graphics("images/emo_diff_wut.svg")
-```
-:::
-::: {.column width="70%"}
-
-$\rightarrow$ Menschen mit <br> **schlechter & guter** Urteilsfähigkeit <br>
-
-```{r, out.height=350, fig.align='center'}
-knitr::include_graphics("images/curvi-linear_wut.svg")
-```
-
-:::
-::::
-</center>
-
-::: footer
-Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler [2023](https://psyarxiv.com/udqms/)
-:::
-
-## Warum waren die Menschen wütend? {visibility="hidden"}
-
-:::: columns
-::: {.column width="60%"}
-```{r, out.height=550}
-knitr::include_graphics("images/WordShiftGraph.png")
-```
-:::
-::: {.column width="40%"}
-- Sie erkannten die falschen Nachrichten
-- Widerspruch zur Weltsicht
-
-::: fragment
-Emotion $\neq$ Manipulation
-:::
-:::
-::::
-
-::: footer
-Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler [2023](https://psyarxiv.com/udqms/)
-:::
 
 ## Was heißt das für Misinformation?
 
@@ -276,43 +338,6 @@ Ideen verbreiten sich nicht wie Viren
 
 Images by <a href="https://pixabay.com/users/iximus-2352783/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5231110">iXimus</a> and <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=305335">Clker-Free-Vector-Images</a> from Pixabay
 :::
-
-# Was ist dann das Problem mit sozialen Medien?
-
-Konflikte, Laut, toxisch, bilden wir uns das alles ein?
-
-## Algorithmen?
-
-- USA Election studies Facebook/Instagram Intro slide
-- Graphik slides Stockholm
-- Google Studie
-- Suche nach FB Gruppen (gonzalez)
-- Youtube Radikalisierungsstudie
-
-## Echokammern ?
-
-- Alltag vs. Online
-
-Konflikte entstehen: 
--   Breites Pupblikum, Kontext fehlt
-
-Social media erhöhen politisches Wissen (Abstinence studies)
-
--   Social media use and beliefs about climate change: Results suggest that using social media for news is associated with a decrease in climate skepticism across the sample. [Diehl et al., 2021](https://doi.org/10.1093/ijpor/edz040)
-
-## Social Media verzerren die Wirklichkeit
-
-- Extreme Meinungen sind sichtbar
-- Moderate melden sich nicht zu Wort
-- eispiel aus der Schweiz ([Maitra et al., 2023](www.doi.org/10.51685/jqd.2023.008))
-- Scheinbare Polarisierung
-- Verstärkt die affektive Polarisierung: Gefühle zwischen Gruppen ([Kubin & Sikorski 2021](https://www.tandfonline.com/doi/full/10.1080/23808985.2021.1976070))
-
-## Wer verbreitet Misinformation?
-
-- Lobby Ölindustrie
-- Politik: Zusammenhang rechts - Anti Establishment - Anti Wissenschaft - Klimawandel, und Liberalismus (CO2 Regulation)
-- Partisanproblem
 
 # Was tun?
 
@@ -376,9 +401,10 @@ Polarisierend: Werte erinnern - erreicht die andere Seite besser
 
 ## Kommunikation: Medien
 
-- Menschen sind nicht dumm: [Argumente wirken](https://doi.org/10.2307/j.ctvn1tbqq)
-- Kommunikation über Klimawandel erhöht Vertrauen in die Wissenschaft
-- Nicht von Clicks täuschen lassen: Qualität ist wichtig, damit Menschen wirklich mit Information interagieren (Ezra Klein)
+- [**Argumente** wirken](https://doi.org/10.2307/j.ctvn1tbqq)
+- **Vertrauen** stärken und nicht verspielen: Transparenz
+<!-- - Kommunikation über Klimawandel erhöht Vertrauen in die Wissenschaft -->
+<!-- - Nicht von Clicks täuschen lassen: Qualität ist wichtig, damit Menschen wirklich mit Information interagieren (Ezra Klein) -->
 - Ursachen des Klimawandels erklären erhöht Akzeptanz von Maßnahmen (check Ref in Lewandowski 2021)
 - [Werte & Weltsicht](https://doi.org/10.1111/spc3.12501) & [Kultur](https://ideas.repec.org/a/spr/climat/v148y2018i1d10.1007_s10584-018-2192-4.html) berücksichtigen
 - Bsp: Die Natur erhalten, Miliär als Chance für Arme, patriotische (homosexuelle) Soldaten...
@@ -456,10 +482,56 @@ knitr::include_graphics("images/williams2024.png")
 ::: footer
 :::
 
+# Notes
  
 ::: notes
 
 - Feedback Kreislauf aus sozialer Identität, Suche nach sozialem Status, und politischer Polarisierung (Bail 2021)
+
+## Was ist Falschinformation?
+
+### Falsch oder irreführend unabhängig von der Intention
+
+:::: columns
+::: {.column width="30%"}
+<br><br><br><br><br><br>
+Absichtliche Desinformation
+:::
+::: {.column width="40%"}
+![](https://cdn.pixabay.com/photo/2016/03/31/15/30/china-1293344_1280.png){width="300"}
+<br> <br> Verschwörungsmythen
+:::
+::: {.column width="30%"}
+<br><br><br><br><br><br>
+Fake News
+:::
+::::
+
+## Überzeugen im Alltag ist schwierig 
+
+![](https://images.pexels.com/photos/7640471/pexels-photo-7640471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+::: notes
+Überzeugen im Alltag ist schwer
+:::
+
+::: footer
+[Photo by Yan Krukau from Pexels](https://www.pexels.com/photo/a-man-angry-in-a-workplace-7640471/)
+:::
+
+
+
+## Andere für leichtgläubiger halten
+
+Umso stärker der **dritte Person Effekt** <br>
+$\rightarrow$ Desto mehr Sorgen wegen Falschinformation
+
+![](images/Figure1_Altay_2023_3rd_person_effect.svg){.r-stretch}
+
+::: footer
+Altay & Acerbi [(2023)]( https://doi.org/10.1177/14614448231153379), Figure 1
+:::
+
 
 ### Klima Misinformation
 
