@@ -100,10 +100,7 @@ Fake News
 ::: notes
 Umfrage: 
 Machen Sie sich Sorgen wegen Falschinformationen zum Klimawandel auf sozialen Medien?
-Glauben Sie, dass andere Menschen im Durschnitt leichter auf Falschinformationen hereinfallen als Sie?
-Bei polarisierenden Themen: Wie schwierig ist es normalerweise, wenn Sie versuchen jemanden von Ihrer Meinung zu überzeugen?
-Wie ist das, wenn jemand versucht Sie von etwas zu überzeugen, dass Sie nicht glauben? (Mehrere Antworten möglich)
-
+Wer ist verantworlich?
 Admin link: <https://directpoll.com/c?XDVhEtstuCXg965A0VIeZbzsdKDY0LkdJSsDS1>
 Results and voting link: shown at link above (on the slide)
 :::
@@ -260,7 +257,7 @@ Mosleh et al., [2024](https://doi.org/10.1093/pnasnexus/pgae111)
 ::::
 
 ::: footer
-Altay et al. [2023](https://www.doi.org/10.37016/mr-2020-119)
+Altay et al. [2023](https://www.doi.org/10.37016/mr-2020-119);
 Bor & Petersen [2022](https://www.doi.org/10.1017/S0003055421000885)
 :::
 
@@ -303,14 +300,15 @@ Image by <a href="https://pixabay.com/users/openclipart-vectors-30363/?utm_sourc
 :::
 
 
-## Einstellungen zum Klimawandel
-
-Weltweit: Mehrheit ist besorgt über Klimawandel
+## Klimawandel: Mehrheit ist besorgt
 
 <iframe src="https://ourworldindata.org/grapher/share-believe-climate" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"> </iframe>
 
 ::: footer
-[Ritchie, 2023, Our World in Data](<https://ourworldindata.org/climate-change-support>)
+[Ritchie, 2023, Our World in Data](<https://ourworldindata.org/climate-change-support>);
+Spampatti et al. [2024](https://www.nature.com/articles/s41562-023-01736-0)
+Valasceanu et al. [2024](https://www.science.org/doi/10.1126/sciadv.adj5778)
+
 :::
 
 ## Österreich Polarisierung Klima {visibility='hidden'}
@@ -351,7 +349,7 @@ online Echo Kammer, Lücke zwischen Conservativ/Liberal im Besuchen konservative
 - Unterschied Rep./Dem. für Rep. Inhalte (USA): [7.5%](https://doi.org/10.1093/qje/qjr044)-[35%](https://www.science.org/doi/10.1126/science.ade7138)
 :::
   
-## Politisches & Nachrichten Wissen
+## Politisches & Nachrichten Wissen {visibility='hidden'}
 
 - Social Media haben [positiven Effekt](https://www.nature.com/articles/s41562-022-01460-1)
 - Klimawandel Skepsis: [niedriger in Social Media Usern](https://doi.org/10.1093/ijpor/edz040)
@@ -477,6 +475,16 @@ Allcott et al., [2020](https://pubs.aeaweb.org/doi/10.1257/aer.20190658)
 ::: footer
 Maitra et al., [2023](www.doi.org/10.51685/jqd.2023.008)
 :::
+
+::: notes
+Populistische Partei ist extrem überrepräsetiert
+:::
+
+## Umfrage Teil 2
+
+Glauben Sie, dass andere Menschen im Durschnitt leichter auf Falschinformationen hereinfallen als Sie?
+Bei polarisierenden Themen: Wie schwierig ist es normalerweise, wenn Sie versuchen jemanden von Ihrer Meinung zu überzeugen?
+Wie ist das, wenn jemand versucht Sie von etwas zu überzeugen, dass Sie nicht glauben? (Mehrere Antworten möglich)
 
 # Wie passt das alles zusammen?
 
@@ -719,20 +727,6 @@ knitr::include_graphics("images/williams2024.png")
 :::
 
 ## Outline {visibility='hidden'}
-
-- Meine eigene Geschichte, Pandemie, Misinformation & Social Media
-- Gefahr Misinfo & Social Media Umfrage
-- Social Media Mythen
-- Fake News
-  - Unsere Studie
-  - Jula Misinfo %?
-- Echo Kammern so stark - stimmt nicht
-- Algorithmen & Radikalisierung - stimmt nicht
-- Was dann? 
-  - Prisma
-  - soziale Dynamik: großes Publikum
-  - Partisanship, echte Frustration
-- Misinformation minimal (wohin geb ich das)
 
 - Was tun?
 - Einstellungen/Verhalten verändern: 
