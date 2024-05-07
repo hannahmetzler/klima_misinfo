@@ -44,9 +44,6 @@ Klimaaktiv Webinar am 8. Mai 2024
 :::
 ::::
 
-
-
-
 ## Emotionen & Falschinformation
 
 :::: columns
@@ -64,7 +61,7 @@ knitr::include_graphics("https://img.sparknews.funkemedien.de/242247716/24224771
 ::::
 
 ![](images/mig-29-1533260_1920.jpg){.absolute bottom=120 left=0 width="255"}
-![](https://media0.faz.net/ppmedia/aktuell/feuilleton/1083995003/1.7264674/mmobject-still_full/nachdem-eine-krankenschwester.jpg){.absolute bottom=80 left=300 width="350"}
+![](https://cdn.24.co.za/files/Cms/General/d/6003/3563fa82ca9443eea003f3ee25f49519.jpg){.absolute bottom=80 left=300 width="350"}
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/2021_storming_of_the_United_States_Capitol_09.jpg/1280px-2021_storming_of_the_United_States_Capitol_09.jpg){.absolute bottom=120 left=700 width="350"}
 
 ::: notes
@@ -100,11 +97,13 @@ Fake News
 ::: notes
 Umfrage: 
 Machen Sie sich Sorgen wegen Falschinformationen zum Klimawandel auf sozialen Medien?
+Glauben Sie, dass andere Menschen im Durschnitt leichter auf Falschinformationen hereinfallen als Sie?
+Bei polarisierenden Themen: Wie schwierig ist es normalerweise, wenn Sie versuchen jemanden von Ihrer Meinung zu überzeugen?
+Wie ist das, wenn jemand versucht Sie von etwas zu überzeugen, dass Sie nicht glauben? (Mehrere Antworten möglich)
 Wer ist verantworlich?
 Admin link: <https://directpoll.com/c?XDVhEtstuCXg965A0VIeZbzsdKDY0LkdJSsDS1>
 Results and voting link: shown at link above (on the slide)
 :::
-
 
 ## Sie sind mit ihren Sorgen nicht allein
 
@@ -131,8 +130,105 @@ Nuancierteres Bild
 Ziel: Hoffnung schaffen
 :::
 
+# Wie passt das alles zusammen?
 
-## Emotion = Manipulation?
+::: notes
+Wie kann es sein, dass Fehlinformation die aktuell größte Gefahr ist, 
+wir aber alle glauben wir fallen selbst nicht auf Misinformation herein, 
+und auch tatsächlich selbst schwer zu überzeugen sind? 
+Und stimmt das, dass Social Media die Verbreitung von Fehlinformation anfeuern?
+:::
+
+## Warum ist überzeugen so schwierig?
+<center>
+### Menschen sind nicht dumm!
+
+![](https://cdn.pixabay.com/photo/2014/03/25/16/30/evolution-297234_1280.png){height="270"}
+</center>
+
+- Was passiert mit leichtgläubigen Individuen?
+- Voraussetzung für Kommunikation: Vorteile für Sender & Empfänger
+
+::: footer
+Mercier [2017](https://doi.org/10.1037/gpr0000111), [2020](https://press.princeton.edu/books/hardcover/9780691178707/not-born-yesterday);  <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=297234">Clker-Free-Vector-Images</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=297234">Pixabay</a>
+:::
+
+::: {.notes}
+- Einfach alles glauben macht sehr verletzlich, Ausnutzung ist zu einfach: schlechteres Überleben und Fortpflanzungschancen - leichtgläubigkeit entwickelt sich nicht. 
+:::
+
+## Ehrliche Kommunikationssignale
+
+![](https://cdn.pixabay.com/photo/2012/05/07/12/37/gazelle-48331_1280.png){.absolute left=150 top=90 height="270"}
+<br><br><br><br><br><br>
+
+::: {.fragment}
+![](https://cdn.pixabay.com/photo/2012/05/07/05/22/chimpanzee-48026_1280.png){.absolute left=600 top=90 height="270"}
+:::
+
+- Grundzustand des Menschen ist **Skepsis**
+- Fähigkeit zu Vertrauen & Kooperation: einzigartig
+- Möglich, weil wir fähig sind, auf Wahrheit zu überprüfen
+
+
+::: footer
+Mercier [2017](https://doi.org/10.1037/gpr0000111), [2020](https://press.princeton.edu/books/hardcover/9780691178707/not-born-yesterday); 
+:::
+
+::: {.notes}
+- Damit sich Kommunikation entwickelt, muss sie im Durchschnitt für den Sender und den Empfänger etwas nützen.
+- Die meisten Tiere glauben sich gar nichts, sie kommunizieren viel weniger als wir
+- Grundzustand Skepsis, Vertrauen & Kooperation brauchen Erklärung
+- Mechanismen: Weltsicht, Vertrauen zum Sender, sozialer Status, Verhalten in der Vergangheit, Vertrauen andere?, gute Argumente
+
+Damit Kommunikation funktionieren kann, braucht eine Spezies die Fähigkeit, sie so zu verarbeiten, dass sie dem Empfänger etwas bringt. Wenn sie nichts bringt, entwickelt sie sich nicht. Deswegen haben viele Tiere keine komplexe Kommunikation und Kooperation - die glauben einander einfach fast nichts.
+:::
+
+## Es ist wichtig, Menschen die Wahrheit zuzutrauen
+
+:::: columns
+::: {.column width="50%"}
+![](images/kurz_angst_kurier.png)
+:::
+::: {.column width="50%"}
+![](images/kurz_angst_derstandard.png)
+
+- Hat kurzfristig funktioniert
+- Verlust des Vertrauens
+- Transparenz notwendig
+:::
+::::
+
+
+
+## Was heißt das für Misinformation?
+
+<center>
+:::: columns
+::: column
+![](https://cdn.pixabay.com/photo/2014/04/02/11/03/idea-305335_1280.png){height="200"}
+![](https://cdn.pixabay.com/photo/2020/05/28/12/52/corona-5231110_1280.png){height="200"}
+:::
+::: column
+<br>
+Ideen verbreiten sich nicht wie Viren
+:::
+::::
+</center>
+
+- Überzeugungseffekte sind klein, "echte" Propaganda schwer
+- Populismus: Aufgreifen, was Menschen bereits glauben
+- Menschen glauben, was sie glauben, aus guten Gründen
+  - Oft soziale Gründe
+
+::: footer
+[Mercier, 2020](https://www.jstor.org/stable/j.ctvn1tbqq); 
+
+Images by <a href="https://pixabay.com/users/iximus-2352783/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5231110">iXimus</a> and <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=305335">Clker-Free-Vector-Images</a> from Pixabay
+:::
+
+
+## Emotion = Manipulation? {visibility='hidden'}
 
 - Falsche & richtige COVID-19 Nachrichten
 - Wie zutreffend ist diese Nachricht?
@@ -162,7 +258,7 @@ Beispiel dafür, dass menschen nicht so leicht manipulierbar sind
 Possible to do: ganze Graphik links
 :::
 
-## Wut bei falschen Nachrichten 
+## Wut bei falschen Nachrichten  {visibility='hidden'}
 
 <center>
 :::: columns
@@ -187,7 +283,7 @@ knitr::include_graphics("images/curvi-linear_wut.svg")
 Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler [2023](https://psyarxiv.com/udqms/)
 :::
 
-## Warum waren die Menschen wütend? 
+## Warum waren die Menschen wütend?  {visibility='hidden'}
 
 :::: columns
 ::: {.column width="55%"}
@@ -217,6 +313,8 @@ Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler [2023](https://psy
 
 ::: notes
 Nicht alles was wir über Emotionen annehmen (Emotion macht irrational), stimmt so. Wirklichkeit ist komplexer.
+Studien auf social media: alle Emotionen zusammen, ohne Gründe für die Emotion zu erforschen
+So haben wir angefangen, Annahmen in Fragen zu stellen, und waren damit nicht allein
 :::
 
 ## Fehlinformation auf sozialen Medien
@@ -225,6 +323,10 @@ Nicht alles was wir über Emotionen annehmen (Emotion macht irrational), stimmt 
 - Minderheit der User teilt Großteil der Falschinformation: 
   - 1% User teilt 75% [(2018-2019)](https://www.doi.org/10.1017/S0003055421000290), 5% User teilt 50% [(2016)](https://www.sciencemag.org/lookup/doi/10.1126/science.aau2706)
 - Überlappt mit [Hassrede](https://doi.org/10.1093/pnasnexus/pgae111)
+
+![](https://www.lmz-bw.de/fileadmin/user_upload/Bilder/allgemeine_Bilder/hatespeech-GettyImages-1179353458-Roman-Didkivskyi.jpg){.absolute bottom=30 left=60 height='250'}
+![](https://images.pexels.com/photos/3989901/pexels-photo-3989901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1){.absolute bottom=30 left=550 height='250'}
+
 
 ::: footer
 Altay et al. [2022](https://journalqd.org/article/view/3617) 
@@ -250,7 +352,7 @@ Mosleh et al., [2024](https://doi.org/10.1093/pnasnexus/pgae111)
 ### Warum? 
 - Status & Privilegien Verlust
 - Frustration im echten Leben
-- Vertrauensverlust
+- Kein Vertrauen in Institutionen
 - Sich nicht repräsentiert fühlen
 :::
 
@@ -262,15 +364,14 @@ Bor & Petersen [2022](https://www.doi.org/10.1017/S0003055421000885)
 :::
 
 ::: notes
-Studien auf social media: alle Emotionen zusammen, ohne Gründe für die Emotion zu erforschen
-So haben wir angefangen, Annahmen in Fragen zu stellen, und waren damit nicht allein
-(Auto als Status Symbol - Klimawandel)
+- Reale Probleme
+  - Geschlechterkampf
+  - Autos als Status Symbole
+  - Globalisierung
+  - Ökonomische Ungleichheit [Wohnungsmarkt](https://www.semafor.com/newsletter/04/30/2024/semafor-flagship-blood-and-soil?utm_source=newslettershare&utm_medium=flagship&utm_campaign=flagshipnumbered5#f)
 :::
 
----
-
-### Klimawandel & Polarisierung Misinformation
-
+## Klimawandel Misinformation
 
 :::: columns
 ::: {.column width="30%"}
@@ -327,7 +428,6 @@ Zandonella & Lux [2023](https://www.sora.at/fileadmin/downloads/projekte/2023_FO
 ![](https://cdn.pixabay.com/photo/2017/01/13/19/40/family-1978106_1280.png)
 :::
 ::: {.column width="70%"}
-- Kontakt mit andersartigen Sichtweisen
 - Echokammern: offline [stärker](https://doi.org/10.1093/qje/qjr044) als online
 - [Ausmaß](https://www.nature.com/articles/s41586-023-06297-w) variiert stark
   - **20.6%** Facebook User: **75%** der Posts aus gleichgesinnten Quellen
@@ -345,6 +445,7 @@ Gonzalez-Bailon et al., [2023](https://www.science.org/doi/10.1126/science.ade71
 :::
 
 ::: notes
+- Kontakt mit andersartigen Sichtweisen
 online Echo Kammer, Lücke zwischen Conservativ/Liberal im Besuchen konservativer Seiten: (7.5%, Gentzkow Shapiro 2011), Gonzalez Bailon: 35%
 - Unterschied Rep./Dem. für Rep. Inhalte (USA): [7.5%](https://doi.org/10.1093/qje/qjr044)-[35%](https://www.science.org/doi/10.1126/science.ade7138)
 :::
@@ -379,7 +480,7 @@ Nyhan et al., [2023](https://www.nature.com/articles/s41586-023-06297-w)
 
 ![](images/Nyhan_2023_results_Fig3_a_d.svg){.r-stretch}
 
-Ähnliche Ergebnisse auf Facebook und Instagramm: <br>
+* Ähnliche Ergebnisse in 2 weiteren Studien: <br>
 [Kein Algorithmus](https://www.science.org/doi/full/10.1126/science.abp9364) oder [keine Re-Shares](https://www.science.org/doi/10.1126/science.add8424)
 
 ::: footer
@@ -437,6 +538,39 @@ Munger & Philipps, [2022](https://doi.org/10.1177/1940161220964767)
 Bail et al. [2018](https://www.pnas.org/content/115/37/9216)
 :::
 
+# Was ist die Rolle von Social Media?
+
+## Soziale Dynamik auf Social Media
+
+:::: columns
+::: {.column width="30%"}
+![](https://cdn.pixabay.com/photo/2022/01/07/01/21/girl-6920625_1280.jpg)
+
+<br>
+![](https://images.fineartamerica.com/images-medium-large/chimpanzee-alpha-male-western-uganda-suzi-eszterhas.jpg)
+
+:::
+::: {.column width="70%"}
+- Soziale Identitäten ausprobieren
+- Uns selbst und andere verstehen
+- Mehr Kontakt mit andersartigen Menschen ohne Kontextverständnis
+
+### Suche nach sozialem Status
+
+- Keine Konsequenzen von aggressivem Verhalten
+- Wettbewerb von Gruppen
+  
+:::
+::::
+
+
+
+::: footer
+Metzler & Garcia [2023](https://doi.org/10.1177/17456916231185057);
+Bail [2021](https://press.princeton.edu/books/hardcover/9780691203423/breaking-the-social-media-prism);
+Brady et al. [2020](https://doi.org/10.1177/1745691620917336)
+:::
+
 
 ## Social Media verzerren die Wirklichkeit
 
@@ -445,30 +579,23 @@ Bail et al. [2018](https://www.pnas.org/content/115/37/9216)
 ![](images/bail_book.avif){width="300"}
 :::
 ::: {.column width="70%"}
+<br>
+
 ### Scheinbare Polarisierung
 
 - Extreme Meinungen sind sichtbar
 - Moderate melden sich nicht zu Wort
 
-### Verstärkt die affektive Polarisierung
-
-- Kontakt mit Extremen: stärkere Polarisierung
-- Kontakt mit Moderaten: keine [Polarisierung](https://www.pnas.org/doi/10.1073/pnas.2022819118)
+$\rightarrow$ Wahrgenommene politische Spaltung verstärkt die **emotionale Polarisierung**
 :::
 ::::
 
-::: notes
-- Beispiel aus der Schweiz ([Maitra et al., 2023](www.doi.org/10.51685/jqd.2023.008))
-- Verstärkt die affektive Polarisierung: Gefühle zwischen Gruppen ([Kubin & Sikorski 2021](https://www.tandfonline.com/doi/full/10.1080/23808985.2021.1976070))
-:::
-
 ::: footer
 Törnberg [2022](https://www.pnas.org/doi/10.1073/pnas.2207159119);
-Asimovic et al. [2021](https://www.pnas.org/doi/10.1073/pnas.2022819118);
-Allcott et al., [2020](https://pubs.aeaweb.org/doi/10.1257/aer.20190658)
+Bail [2021](https://press.princeton.edu/books/hardcover/9780691203423/breaking-the-social-media-prism)
 :::
 
-## Beispiel Schweiz - Politiker auf Facebook
+## Schweizer Politiker auf Facebook
 
 ![](images/switzerland.svg)
 
@@ -480,182 +607,112 @@ Maitra et al., [2023](www.doi.org/10.51685/jqd.2023.008)
 Populistische Partei ist extrem überrepräsetiert
 :::
 
-## Umfrage Teil 2
-
-Glauben Sie, dass andere Menschen im Durschnitt leichter auf Falschinformationen hereinfallen als Sie?
-Bei polarisierenden Themen: Wie schwierig ist es normalerweise, wenn Sie versuchen jemanden von Ihrer Meinung zu überzeugen?
-Wie ist das, wenn jemand versucht Sie von etwas zu überzeugen, dass Sie nicht glauben? (Mehrere Antworten möglich)
-
-# Wie passt das alles zusammen?
-
-::: notes
-Wie kann es sein, dass Fehlinformation die aktuell größte Gefahr ist, 
-wir aber alle glauben wir fallen selbst nicht auf Misinformation herein, 
-und auch tatsächlich selbst schwer zu überzeugen sind? 
-Und stimmt das, dass Social Media die Verbreitung von Fehlinformation anfeuern?
-:::
-
-## Warum ist überzeugen so schwierig?
-<center>
-### Menschen sind nicht dumm!
-
-![](https://cdn.pixabay.com/photo/2014/03/25/16/30/evolution-297234_1280.png){height="270"}
-</center>
-
-- Was passiert mit leichtgläubigen Individuen?
-- Voraussetzung für Kommunikation: Vorteile für Sender & Empfänger
-
-::: footer
-Mercier [2017](https://doi.org/10.1037/gpr0000111), [2020](https://press.princeton.edu/books/hardcover/9780691178707/not-born-yesterday);  <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=297234">Clker-Free-Vector-Images</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=297234">Pixabay</a>
-:::
-
-::: {.notes}
-- Einfach alles glauben macht sehr verletzlich, Ausnutzung ist zu einfach: schlechteres Überleben und Fortpflanzungschancen - leichtgläubigkeit entwickelt sich nicht. 
-:::
-
-## Ehrliche Kommunikationssignale
-
-![](https://cdn.pixabay.com/photo/2012/05/07/12/37/gazelle-48331_1280.png){.absolute left=150 top=90 height="270"}
-<br><br><br><br><br><br>
-
-::: {.fragment}
-![](https://cdn.pixabay.com/photo/2012/05/07/05/22/chimpanzee-48026_1280.png){.absolute left=600 top=90 height="270"}
-:::
-
-- Grundzustand des Menschen ist **Skepsis**
-- Fähigkeit zu Vertrauen & Kooperation: einzigartig
-- Möglich wegen Mechanismen, um die Wahrheit zu überprüfen
-
-
-::: footer
-Mercier [2017](https://doi.org/10.1037/gpr0000111), [2020](https://press.princeton.edu/books/hardcover/9780691178707/not-born-yesterday); 
-:::
-
-::: {.notes}
-- Damit sich Kommunikation entwickelt, muss sie im Durchschnitt für den Sender und den Empfänger etwas nützen.
-- Die meisten Tiere glauben sich gar nichts, sie kommunizieren viel weniger als wir
-- Grundzustand Skepsis, Vertrauen & Kooperation brauchen Erklärung
-- Mechanismen: Weltsicht, Vertrauen zum Sender, sozialer Status, Verhalten in der Vergangheit, Vertrauen andere?, gute Argumente
-
-Damit Kommunikation funktionieren kann, braucht eine Spezies die Fähigkeit, sie so zu verarbeiten, dass sie dem Empfänger etwas bringt. Wenn sie nichts bringt, entwickelt sie sich nicht. Deswegen haben viele Tiere keine komplexe Kommunikation und Kooperation - die glauben einander einfach fast nichts.
-:::
-
-## Est ist wichtig, Menschen die Wahrheit zuzutrauen
-
-:::: columns
-::: {.column width="50%"}
-![](images/kurz_angst_kurier.png)
-:::
-::: {.column width="50%"}
-![](images/kurz_angst_derstandard.png)
-
-- Hat kurzfristig funktioniert
-- Verlust des Vertrauens
-- Transparenz notwendig
-:::
-::::
-
-
-
-## Was heißt das für Misinformation?
-
-<center>
-:::: columns
-::: column
-![](https://cdn.pixabay.com/photo/2014/04/02/11/03/idea-305335_1280.png){height="200"}
-![](https://cdn.pixabay.com/photo/2020/05/28/12/52/corona-5231110_1280.png){height="200"}
-:::
-::: column
-<br>
-Ideen verbreiten sich nicht wie Viren
-:::
-::::
-</center>
-
-- Überzeugungseffekte sind klein, "echte" Propaganda schwer
-- Populismus: Aufgreifen, was Menschen bereits glauben
-- Menschen glauben, was sie glauben, aus guten Gründen
-  - Oft soziale Gründe
-
-::: footer
-[Mercier, 2020](https://www.jstor.org/stable/j.ctvn1tbqq); 
-
-Images by <a href="https://pixabay.com/users/iximus-2352783/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5231110">iXimus</a> and <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=305335">Clker-Free-Vector-Images</a> from Pixabay
-:::
-
 # Was tun?
 
-## Gesellschaft & Politik: Die großen Probleme lösen
+## 2 Prinzipien
 
-- Politik: Eliten haben einen starken Effekt auf die öffentliche Meinung
-  - Kritik der eigenen Seite
-- Ungleichheit verringern [Turchin, 2023](https://www.thalia.at/shop/home/artikeldetails/A1066136858)
-- Trasparente & inklusive Institutionen (+ accountability)
-- Transparente Kommunikation von Politikern & Experten, Unsicherheit benennen
-- Mitbeteiligung an Entscheidungsprozessen
+- Menschen sind nicht dumm! [**Argumente** wirken](https://doi.org/10.2307/j.ctvn1tbqq).
+- **Vertrauen** stärken und nicht verspielen: Transparenz
 
-::: notes
-- opinion leaders: ch 8 ref 33, resonate most with the other side if they criticize their own party most often
-:::
+### Auf verschiedenen Ebenen anwenden
 
-## Social Media Platformen
+![](https://cdn.pixabay.com/photo/2013/09/28/10/57/smart-187696_960_720.jpg){.absolute bottom=100 left=550 height='250'}
+![](https://cdn.pixabay.com/photo/2017/06/27/11/48/team-spirit-2447163_1280.jpg){.absolute bottom=100 left=60 height='250'}
 
-- Neue Platformen designt für depolarisierende Diskussionen
-- Politische Einstellungen kommen von vertrauenswürdigen Menschen aus dem Alltag [Burt 1999](https://doi.org/10.1177/000271629956600104), [Watts & Doods, 2007](https://doi.org/10.1086/518527), [Bail, 2021](https://press.princeton.edu/books/hardcover/9780691203423/breaking-the-social-media-prism)
+
+## Persönliche & digitale Kommunikation
+
+- Scheinbare Polarisierung sichtbar machen
+- Übereinstimmung & moderate Meinungen sichtbar machen
+- Kleine Schritte machen
 
 ::: footer
-Metzler & Garcia (2023) - nächste slides auch
+Bail [2021](https://press.princeton.edu/books/hardcover/9780691203423/breaking-the-social-media-prism)
 :::
 
+## Wie?
 
-## Platform Design 
+- Zuhören und Nachfragen
+- über [persönliche Erfahrungen](https://www.pnas.org/doi/10.1073/pnas.2008389118) & [Nicht-Politisches](https://doi.org/10.1093/poq/nfy014) sprechen
+- [Werte/Weltsicht](https://doi.org/10.1111/spc3.12501) berücksichtigen
+  - Erbe der Natur erhalten
+  - Ökonomische Möglichkeiten
+  - Nationale Sicherheit durch verringerte Importe
+- Argumente wirken: 
+  - Ursachen des Klimawandels erklären: erhöht [Akzeptanz von Maßnahmen](https://doi.org/10.1146/annurev-publhealth-090419-102409)
 
-- Anonymität depolarisiert: Ideen vor Identität stellen [Combs et al. 2022](https://osf.io/cwgu5), [Builbeault et al., 2018](https://www.pnas.org/doi/full/10.1073/pnas.1722664115)
+::: footer
+Lewandowsky [2021](https://doi.org/10.1146/annurev-publhealth-090419-102409); 
+Bail [2021](https://press.princeton.edu/books/hardcover/9780691203423/breaking-the-social-media-prism)
+:::
+
+## Regulation & Design von Social Media
+
+- EU Digital Services Act: Zugang zu Forschungsdaten
+  - Transparenz Algorithmen & Content Moderation
+- Social Media Platformen für bestimmte Zwecke designen
+  - [Anonymität depolarisiert](https://osf.io/cwgu5): Ideen vor Identität
+  - Farb-Buttons, die Postingverhalten anderer anzeigen
+- Algorithmen: 
+  - [Übereinstimmung betonen](http://arxiv.org/abs/2310.05984)
+  - Kleine Schritte zu anderen Sichtweisen fördern
+
+::: footer
+[Combs et al. 2022](https://osf.io/cwgu5);
+[Builbeault et al., 2018](https://www.pnas.org/doi/full/10.1073/pnas.1722664115)
+[Törnberg et al., 2023](http://arxiv.org/abs/2310.05984); 
+[Wojcik et al., 2022](http://arxiv.org/abs/2210.15723)
+:::
+
+::: notes
+Design
 - Kleinere Sub-Communities für verschiedene Zwecke
-- Farb-Buttons, die Postingverhalten anderer anzeigen
 - Identität verifizieren bei Registrierung
-
-## Algorithmen ranking 
-
-- Status für User/Posts die Übereinstimmung betonen [Törnberg et al., 2023](http://arxiv.org/abs/2310.05984); [Wojcik et al., 2022](http://arxiv.org/abs/2210.15723)
-- Kleine Schritte fördern: Vorschläge innerhalb des Akzeptanz-Intervals
 - Vertrauenswürdige Quellen boosten
 - [User Präferenzen berücksichtigen](https://doi.org/10.1177/1745691623119039)
 - Nachfrage & Tipps vor dem Posten
 
-::: notes
 User wollen keine polarisierenden Posts, sondern positive, korrekte, nuancierte und etwas lernen
 Frikition: Zeithindernis
 Toxisch: Empathie Prompts
 Polarisierend: Werte erinnern - erreicht die andere Seite besser
 :::
 
-## Was können Sie selbst tun?
+## Politik & Gesellschaft
 
-- Sich der scheinbaren Polarisierung bewusst werden: (Social) Medien zeigen nicht die gesellschaftliche Wahrheit
-- Wie präsentieren Sie sich auf Social Media? Moderate Meinungen sichtbar machen
-- Kleine Schritte machen: Aktzeptanz-Intervall
+- Eliten: starker Effekt auf öffentliche Meinung
+- Nur 20% der Misinformation, aber 69% der Interaktion [damit](https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation)
 
-## Persönliche & Online Diskussionen
+### Vertrauen gewinnen
 
-  - Zuhören und Nachfragen
-  - über [persönliche Erfahrungen](https://www.pnas.org/doi/10.1073/pnas.2008389118) sprechen
-  - über [Nicht-Politisches](https://doi.org/10.1093/poq/nfy014) sprechen
-  - [Werte/Weltsicht](https://doi.org/10.1111/spc3.12501) der anderen Seite ansprechen
-
-## Kommunikation: Medien
-
-- [**Argumente** wirken](https://doi.org/10.2307/j.ctvn1tbqq)
-- **Vertrauen** stärken und nicht verspielen: Transparenz
-<!-- - Kommunikation über Klimawandel erhöht Vertrauen in die Wissenschaft -->
-<!-- - Nicht von Clicks täuschen lassen: Qualität ist wichtig, damit Menschen wirklich mit Information interagieren (Ezra Klein) -->
-- Ursachen des Klimawandels erklären erhöht Akzeptanz von Maßnahmen (check Ref in Lewandowski 2021)
-- [Werte & Weltsicht](https://doi.org/10.1111/spc3.12501) & [Kultur](https://ideas.repec.org/a/spr/climat/v148y2018i1d10.1007_s10584-018-2192-4.html) berücksichtigen
-- Bsp: Die Natur erhalten, Miliär als Chance für Arme, patriotische (homosexuelle) Soldaten...
+- Transparente Kommunikation von Politikern & Experten
+- Reale Probleme lösen 
+  - [Ungleichheit verringern](https://www.thalia.at/shop/home/artikeldetails/A1066136858)
+  - Klimawandel Maßnahmen, die Armut berücksichtigen
+  - vertrauenswürdige Institutionen
 
 ::: footer
-[Lewandowsky 2021](https://doi.org/10.1146/annurev-publhealth-090419-102409); 
+Brennen et al., [2020](https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation)
 :::
+
+::: notes
+Kritik der eigenen Seite ist glaubenswürdig: opinion leaders: ch 8 ref 33, resonate most with the other side if they criticize their own party most often
+:::
+
+## Zusammenfassung
+
+- Wahrgenommene Polarisierung als Kernproblem
+
+- Soziale Faktoren wirken stärker als Algorithmen & Co
+
+- Menschen sind nicht dumm! 
+
+<br>
+
+### Danke für Ihre Aufmerksamkeit!
+
+* Projekt Emotions & Falschinformation: [https://hannahmetzler.eu/emomis](www.hannahmetzler.eu/emomis)
+* metzler@csh.ac.at
 
 ## Für Neugierige
 
@@ -726,45 +783,13 @@ knitr::include_graphics("images/williams2024.png")
 ::: footer
 :::
 
-## Outline {visibility='hidden'}
 
-- Was tun?
-- Einstellungen/Verhalten verändern: 
-- Argumente/Kommunikation, Transparenz/Vertrauen
 
-  - Individuelle User
-  - Gesetzliche Regelungen
-    - DSA
-      - Transparenz von Platformen, Forschungsdatenzugang
-  - Digitales Community Management: Kommunikation
-    - Argumente & Vertrauen
-  - Social Media Platform Design
-  - Gesellschaft: Transparenz & Vertrauen
-- Empfehlungen
+::: notes
 
-# Notes {visibility='hidden'}
+## Notes {visibility='hidden'}
  
-::: notes
-
-- Feedback Kreislauf aus sozialer Identität, Suche nach sozialem Status, und politischer Polarisierung (Bail 2021)
-
-
-
-## Überzeugen im Alltag ist schwierig 
-
-![](https://images.pexels.com/photos/7640471/pexels-photo-7640471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-
-::: notes
-Überzeugen im Alltag ist schwer
-:::
-
-::: footer
-[Photo by Yan Krukau from Pexels](https://www.pexels.com/photo/a-man-angry-in-a-workplace-7640471/)
-:::
-
-
-
-## Andere für leichtgläubiger halten
+### Andere für leichtgläubiger halten
 
 Umso stärker der **dritte Person Effekt** <br>
 $\rightarrow$ Desto mehr Sorgen wegen Falschinformation
@@ -776,9 +801,7 @@ Altay & Acerbi [(2023)]( https://doi.org/10.1177/14614448231153379), Figure 1
 :::
 
 
-### Klima Misinformation
-
-### USA
+### Klima Misinformation USA
 
 -   72% glauben an Klimawandel vs. 15% nicht
 -   58% glauben Klimwandel ist Menschen verursacht vs. 29% nicht
@@ -793,39 +816,14 @@ Altay & Acerbi [(2023)]( https://doi.org/10.1177/14614448231153379), Figure 1
 - Keine Evidenz für mehr Misinformation [read](https://www.slowboring.com/p/misinformation-myth)
 - Social Media erhöht politisches Wissen (ref algos, facebook abstinence Asimovic etc)
   - Algorithmen abdrehen: weniger politisches Wissen
-- Glaube das Klimawandel real und menschengemacht: x % (Ritchie)
 
 Uscinkski et al. [ 2022](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270429); Nyhan [2020](https://www.aeaweb.org/articles?id=10.1257/jep.34.3.220); 
-
-## Wer konsumiert Misinformation?
-
--   Partisan
--   Aktive Suche nach Misinformation
--   Niedriges Vertrauen in Gesundheitssystem, politisches System und Wissenschaft
--   Status seeking individuals, using aggression as strategy, need for chaos
-    -   Nichts mehr glauben
--   Menschen beurteilen den Inhalt selbst - Plausiblitätscheck???
-
-### Warum? 
-
-- Reale Probleme
-- Status & Privilegien Verlust
-  - Geschlechterkampf
-  - Autos
-  - Globalisierung
-- Ökonomische Ungleichheit [Wohnungsmarkt](https://www.semafor.com/newsletter/04/30/2024/semafor-flagship-blood-and-soil?utm_source=newslettershare&utm_medium=flagship&utm_campaign=flagshipnumbered5#f)
 
 ### Warum glauben Menschen dann so viele falsche Dinge?
 
 - Intuitive und reflektive Überzeugungen
-- Medien Bias (conscipious cognition blog)
-
-- Conspiracies have not increased (Uscinski 2022)
-
-## Misinformation von oben: Politik und Medien
-
--   Kein großes Problem beim Thema Klima
--   Politiker & Celebrities etc: 20% der Misinformation, aber 69% der Social Media Interaktionen mit Misinformation ([Brennen et al., 2020](https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation))
+  - soziale Funktion
+- Medien Bias (conscipious cognition blog): negative überraschende News repräsentieren nicht die Wirklichkeit
 
 ### AI und Misinformation/Propaganda
 
@@ -837,4 +835,5 @@ Uscinkski et al. [ 2022](https://journals.plos.org/plosone/article?id=10.1371/jo
     -   warum sollten die Bösen da einen Vorteil haben?
     -   sehr personalisiert: kann man nicht weiter teilen - wir wollen mit anderen über Content reden können
 -   AI hilft auch der guten Seite
+
 :::
