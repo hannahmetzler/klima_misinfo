@@ -248,8 +248,23 @@ Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler [2023](https://psy
 
 ## Fehlinformation auf sozialen Medien?
 
-- Statistik
-- Eventuell auch zu Klimawandel?
+- Kleiner Anteil der Nachrichten: [1-6%](https://journalqd.org/article/view/3617) in 5 Studien 2016-2019
+- Minderheit der User teilt Großteil der Falschinformation: 
+  - 1% User teilt 75% [(2018-2019)](https://www.doi.org/10.1017/S0003055421000290)
+  - 5% User teilt 50% [(2016)](https://www.sciencemag.org/lookup/doi/10.1126/science.aau2706)
+
+### Wer?
+
+- Verlust von Status in der aktuellen Gesellschaft (junge Männer)
+- Angst vor Verlust von Privilegien (Auto als Status Symbol - Klimawandel)
+
+
+
+::: footer
+Altay et al. [2022](https://journalqd.org/article/view/3617) 
+Grinberg et  al., [2019](https://www.sciencemag.org/lookup/doi/10.1126/science.aau2706); 
+Osmundsen et al., [2021](https://www.doi.org/10.1017/S0003055421000290)
+:::
 
 
 ::: notes
@@ -292,32 +307,14 @@ online Echo Kammer, Lücke zwischen Conservativ/Liberal im Besuchen konservative
 
 - Social Media haben [positiven Effekt](https://www.nature.com/articles/s41562-022-01460-1)
 - Klimawandel Skepsis: [niedriger in Social Media Usern](https://doi.org/10.1093/ijpor/edz040)
-- Wissen sinkt bei 4 Wochen [Facebook Abstinenz](https://pubs.aeaweb.org/doi/10.1257/aer.20190658)
+- Wissen sinkt nach 4 Wochen [Facebook deaktivieren](https://pubs.aeaweb.org/doi/10.1257/aer.20190658)
 
 ![](images/allcott2020.svg){width="300"}
 
 ::: footer
-Alcott et al., [2020](https://pubs.aeaweb.org/doi/10.1257/aer.20190658); 
+Allcott et al., [2020](https://pubs.aeaweb.org/doi/10.1257/aer.20190658); 
 Diehl et al., [2021](https://doi.org/10.1093/ijpor/edz040);
 Asimovic et al. [2021](https://www.pnas.org/doi/10.1073/pnas.2022819118)
-:::
-
-
-## Algorithmen & Radikalisierungspiralen?
-
-![](images/google.png)
-
-- Einfluss von [Google's Algorithmus](https://www.nature.com/articles/s41586-023-06078-5) auf Ergebnisse: Suchworte haben viel stärkeren Effekt
-- YouTube: Algorithmus führt zu [weniger radikalem Konsum](https://www.pnas.org/doi/abs/10.1073/pnas.2313377121) oder nach [links](https://www.pnas.org/doi/abs/10.1073/pnas.2101967118)
-- Klicks für radikale Videos kommen von [außerhalb der Platform](https://doi.org/10.1177/1940161220964767)
-
-$\rightarrow$ User haben Handlungsspielraum: Sie suchen gleichgesinnte Inhalte aktiv
-
-::: footer
-Robertson et al., [2023](https://www.nature.com/articles/s41586-023-06078-5)
-Hosseinmardi et al., [2024](https://www.pnas.org/doi/abs/10.1073/pnas.2313377121)
-Hosseinmardi et al., [2021](https://www.pnas.org/doi/abs/10.1073/pnas.2101967118)
-Munger & Philipps, [2022](https://doi.org/10.1177/1940161220964767)
 :::
 
 ## Einfluss von Algorithmen
@@ -326,18 +323,23 @@ Facebook [Studie](https://www.nature.com/articles/s41586-023-06297-w): Down-rank
 
 ![](images/Nyhan_2023.svg)
 
-* Ähnliche Ergebnisse: Kein Algorithmus oder keine Re-Shares auf Facebook & Instagram
-
 ::: footer
 Nyhan et al., [2023](https://www.nature.com/articles/s41586-023-06297-w)
 :::
 
-## Algorithmus: Down-Ranking gleichgesinnter Quellen
+---
+
+### Algorithmus: Down-Ranking gleichgesinnter Quellen
 
 ![](images/Nyhan_2023_results_Fig3_a_d.svg){.r-stretch}
 
+Ähnliche Ergebnisse auf Facebook und Instagramm: <br>
+[Kein Algorithmus](https://www.science.org/doi/full/10.1126/science.abp9364) oder [keine Re-Shares](https://www.science.org/doi/10.1126/science.add8424)
+
 ::: footer
 Nyhan et al., [2023](https://www.nature.com/articles/s41586-023-06297-w)
+Guess et al., [2023](https://www.science.org/doi/full/10.1126/science.abp9364)
+Guess et al., [2023](https://www.science.org/doi/10.1126/science.add8424)
 :::
 
 ::: notes
@@ -346,20 +348,50 @@ from 3.15% to 2.81% for uncivil content
 from 0.76% to 0.55% for content from misinformation repeat offenders
 :::
 
-## Echokammern reduzieren? Keine gute Idee. 
+## Algorithmen & Radikalisierungspiralen?
 
-Bail
-Asimovic
+- Einfluss von [Google's Algorithmus](https://www.nature.com/articles/s41586-023-06078-5) auf Ergebnisse: Suchworte haben viel stärkeren Effekt
 
+![](images/google.png)
+
+
+- YouTube: Algorithmus führt zu [weniger radikalem Konsum](https://www.pnas.org/doi/abs/10.1073/pnas.2313377121)
+  - wahrscheinlicher (6%) nach [links](https://www.pnas.org/doi/abs/10.1073/pnas.2101967118) als rechts
+- Klicks für radikale Videos: von [außerhalb der Platform](https://doi.org/10.1177/1940161220964767)
+<br> $\rightarrow$ User suchen aktiv gleichgesinnte Inhalte
 
 ::: footer
-Nyhan et al., [2023](https://www.nature.com/articles/s41586-023-06297-w)
+Robertson et al., [2023](https://www.nature.com/articles/s41586-023-06078-5);
+Hosseinmardi et al., [2024](https://www.pnas.org/doi/abs/10.1073/pnas.2313377121);
+Hosseinmardi et al., [2021](https://www.pnas.org/doi/abs/10.1073/pnas.2101967118);
+Munger & Philipps, [2022](https://doi.org/10.1177/1940161220964767)
+:::
+
+## Echokammern reduzieren? Keine gute Idee. 
+
+Politische Polarisierung in den USA ([Studie 2017](https://www.pnas.org/content/115/37/9216))
+
+:::: columns
+::: {.column width="40%"}
+![](images/bail_design.svg)
+:::
+::: {.column width="60%"}
+- Einstellungen wurden extremer, besonders in Republikanern
+:::
+::::
+
+::: footer
+Bail et al. [2018](https://www.pnas.org/content/115/37/9216);
+Asimovic et al. [2021](https://www.pnas.org/doi/10.1073/pnas.2022819118);
+Allcott et al., [2020](https://pubs.aeaweb.org/doi/10.1257/aer.20190658)
 :::
 
 ## Woher kommen dann die Konflikte? 
 
-- Breites Pupblikum, Kontext fehlt
-- Kontakt mit Extremen Stimmen der anderen Seite
+- Breites Publikum, Kontext fehlt
+- Kontakt mit Extremen Stimmen der anderen Seite verstärkt Polarisierung
+- Facebook deaktivieren in [Bosnia Herzegovina](https://www.pnas.org/doi/10.1073/pnas.2022819118) & [USA](https://pubs.aeaweb.org/doi/10.1257/aer.20190658): 
+  - reduziert politische Polarisierung
 
 ::: footer
 Törnberg 2022
@@ -369,11 +401,11 @@ Törnberg 2022
 
 - Extreme Meinungen sind sichtbar
 - Moderate melden sich nicht zu Wort
-- eispiel aus der Schweiz ([Maitra et al., 2023](www.doi.org/10.51685/jqd.2023.008))
+- Beispiel aus der Schweiz ([Maitra et al., 2023](www.doi.org/10.51685/jqd.2023.008))
 - Scheinbare Polarisierung
 - Verstärkt die affektive Polarisierung: Gefühle zwischen Gruppen ([Kubin & Sikorski 2021](https://www.tandfonline.com/doi/full/10.1080/23808985.2021.1976070))
 
-## Wer verbreitet Misinformation?
+## Wer sind extreme Stimmen/Misinformation?
 
 - Lobby Ölindustrie
 - Politik: Zusammenhang rechts - Anti Establishment - Anti Wissenschaft - Klimawandel, und Liberalismus (CO2 Regulation)
