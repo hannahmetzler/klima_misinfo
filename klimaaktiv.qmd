@@ -658,10 +658,10 @@ Bail [2021](https://press.princeton.edu/books/hardcover/9780691203423/breaking-t
   - Kleine Schritte zu anderen Sichtweisen fördern
 
 ::: footer
-[Combs et al. 2022](https://osf.io/cwgu5);
-[Builbeault et al., 2018](https://www.pnas.org/doi/full/10.1073/pnas.1722664115)
-[Törnberg et al., 2023](http://arxiv.org/abs/2310.05984); 
-[Wojcik et al., 2022](http://arxiv.org/abs/2210.15723)
+Metzler & Garcia [2023](https://doi.org/10.1177/17456916231185057);
+Combs et al. [2022](https://osf.io/cwgu5);
+Törnberg et al., [2023](http://arxiv.org/abs/2310.05984); 
+Wojcik et al., [2022](http://arxiv.org/abs/2210.15723)
 :::
 
 ::: notes
@@ -693,26 +693,30 @@ Polarisierend: Werte erinnern - erreicht die andere Seite besser
 
 ::: footer
 Brennen et al., [2020](https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation)
+Metzler & Garcia [2023](https://doi.org/10.1177/17456916231185057);
+Turchin [2023](https://www.thalia.at/shop/home/artikeldetails/A1066136858)
+Ritchie [2023](https://www.thalia.at/shop/home/artikeldetails/A1069948591)
 :::
 
 ::: notes
 Kritik der eigenen Seite ist glaubenswürdig: opinion leaders: ch 8 ref 33, resonate most with the other side if they criticize their own party most often
 :::
 
-## Zusammenfassung
+## Zusammenfassung & Danke
 
-- Wahrgenommene Polarisierung als Kernproblem
+- Wahrgenommene Polarisierung als Kernproblem mit Social Media
 
 - Soziale Faktoren wirken stärker als Algorithmen & Co
 
 - Menschen sind nicht dumm! 
 
+- Reale Probleme lösen & transparente Erklärungen
+
 <br>
 
+<center>
 ### Danke für Ihre Aufmerksamkeit!
-
-* Projekt Emotions & Falschinformation: [https://hannahmetzler.eu/emomis](www.hannahmetzler.eu/emomis)
-* metzler@csh.ac.at
+</center>
 
 ## Für Neugierige
 
