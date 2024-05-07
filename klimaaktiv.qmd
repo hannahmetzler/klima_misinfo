@@ -9,7 +9,7 @@ format:
     theme: [default, custom.scss]
     # incremental slides point by point
     # incremental: true
-    aspect-ratio: 16:9
+    # aspect-ratio: 16:9
     slide-number: true
 # title-slide-attributes:
 #     data-background-color: "#1f5c99"
@@ -43,6 +43,7 @@ Klimaaktiv Webinar am 8. Mai 2024
 ![](logos/wwtf.svg)
 :::
 ::::
+
 
 ## Outline
 
@@ -94,6 +95,32 @@ knitr::include_graphics("https://img.sparknews.funkemedien.de/242247716/24224771
 ![](https://media0.faz.net/ppmedia/aktuell/feuilleton/1083995003/1.7264674/mmobject-still_full/nachdem-eine-krankenschwester.jpg){.absolute bottom=80 left=300 width="350"}
 ![](https://images.tagesschau.de/image/16004edf-9ab3-42dc-9e1b-7af0ece622ff/AAABjN2UyTQ/AAABjwnlGwo/16x9-1920/us-kapitol-sturm-100.jpg){.absolute bottom=120 left=700 width="350"}
 
+::: notes
+Forschung zu Emotionen, auf Social Media
+Dann die Pandemie: Menschen haben alles mögliche geglaubt
+Krisenzeiten, empfänglich für Falschinfos
+Idee: Emotionen & Falschinformation zu erforschen
+:::
+
+## Was ist Falschinformation?
+
+### Falsch oder irreführend unabhängig von der Intention
+
+:::: columns
+::: {.column width="25%"}
+<br><br><br><br><br><br>
+Absichtliche Desinformation
+:::
+::: {.column width="50%"}
+![](https://cdn.pixabay.com/photo/2016/03/31/15/30/china-1293344_1280.png)
+<br>  Verschwörungsmythen
+:::
+::: {.column width="25%"}
+<br><br><br><br><br><br>
+Fake News
+:::
+::::
+
 ## Ihre Erfahrungen mit Falschinformation
 
 <iframe src="https://directpoll.com/r?XDbzPBd3ixYqg8KQZr69JTFFxSLn1qRPIzm1AiuiGgDkUoT"  width="800px" height="600px"></iframe>
@@ -112,7 +139,7 @@ Results and voting link: shown at link above (on the slide)
 
 ## Sie sind mit ihren Sorgen nicht allein
 
-![](https://assets.weforum.org/editor/responsive_large_webp_aeC_G_iMAyHfIYbpadABhxYrrTC3wvRnO45i1VeBOCo.webp)
+![](https://assets.weforum.org/editor/responsive_large_webp_aeC_G_iMAyHfIYbpadABhxYrrTC3wvRnO45i1VeBOCo.webp){.r-stretch}
 
 ## Social Media sind verantwortlich!
 
@@ -129,6 +156,13 @@ Results and voting link: shown at link above (on the slide)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Reddit_wordmark.svg/1920px-Reddit_wordmark.svg.png){.absolute bottom=100 left=50 width="200"}
 
+::: notes
+Ich mag mit ihnen heute anschauen, wie sich meine eigene Einschätzung zu diesen Themen langsam geändert hab, umso mehr ich darüber gelernt hab. 
+Nuancierteres Bild
+Ziel: Hoffnung schaffen
+:::
+
+
 ## Emotion = Manipulation?
 
 - Falsche & richtige COVID-19 Nachrichten
@@ -136,7 +170,6 @@ Results and voting link: shown at link above (on the slide)
 - Löst die Nachricht ein Gefühl aus?
 
 <center>
-::: {.fragment}
 
 ::: columns
 ::: {.column width="40%"}
@@ -146,9 +179,8 @@ Results and voting link: shown at link above (on the slide)
 ::: {.column width="40%"}
 ![](images/NR14.PNG)
 :::
-:::
+::::
 
-:::
 
 </center>
 
@@ -158,6 +190,7 @@ Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler [2023](https://psy
 
 ::: notes
 Beispiel dafür, dass menschen nicht so leicht manipulierbar sind
+Possible to do: ganze Graphik links
 :::
 
 ## Wut bei falschen Nachrichten 
@@ -188,13 +221,16 @@ Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler [2023](https://psy
 ## Warum waren die Menschen wütend? 
 
 :::: columns
-::: {.column width="60%"}
+::: {.column width="55%"}
 ```{r, out.height=550}
 knitr::include_graphics("images/WordShiftGraph.png")
 ```
 :::
-::: {.column width="40%"}
-- Sie erkannten die falschen Nachrichten
+::: {.column width="45%"}
+- Beschreibung erster Gedanken: 
+
+$\rightarrow$ Sie erkannten die falschen Nachrichten
+
 - Ärger über Verbreitung
 - Widerspruch zur Weltsicht
 
@@ -230,22 +266,26 @@ So haben wir angefangen, Annahmen in Fragen zu stellen, und waren damit nicht al
 ![](https://cdn.pixabay.com/photo/2017/01/13/19/40/family-1978106_1280.png)
 :::
 ::: {.column width="70%"}
-- Sind offline [stärker](https://doi.org/10.1093/qje/qjr044) als online
-- Unterschied Rep/Dem für Rep Inhalte (USA): [7.5%](https://doi.org/10.1093/qje/qjr044)-[35%](https://www.science.org/doi/10.1126/science.ade7138)
-
-### Kontakt mit Nachrichten der "Anderen"
-
-- Algorithmen: [kleiner & weniger starker Einfluss](https://www.science.org/doi/full/10.1126/science.aaa1160) als soziales Netzwerk
-- [Gruppen & Pages](https://www.science.org/doi/10.1126/science.ade7138) besonders stark segregiert
+- Kontakt mit andersartigen Sichtweisen
+- Echokammern: offline [stärker](https://doi.org/10.1093/qje/qjr044) als online
+- [Ausmaß](https://www.nature.com/articles/s41586-023-06297-w) variiert stark
+  - **20.6%** Facebook User: **75%** der Posts aus gleichgesinnten Quellen
+  - **23.1%**: unter **25%** der Posts
+- Algorithmen: kleiner (6%) & viel weniger starker [Einfluss](https://www.science.org/doi/full/10.1126/science.aaa1160) als soziales Netzwerk
+- [Gruppen & Pages](https://www.science.org/doi/10.1126/science.ade7138): stark segregiert
 :::
 ::::
 
 ::: footer
-Gentzkow & Shapiro, 2011; Bakshy et al. 2015; Gonzalez-Bailon et al., 2023
+Gentzkow & Shapiro, [2011](https://doi.org/10.1093/qje/qjr044); 
+Bakshy et al. [2015](https://www.science.org/doi/full/10.1126/science.aaa1160); 
+Nyhan et al., [2023](https://www.nature.com/articles/s41586-023-06297-w); 
+Gonzalez-Bailon et al., [2023](https://www.science.org/doi/10.1126/science.ade7138) 
 :::
 
 ::: notes
-online Echo Kammer, Lücke zwischen Conservativ/Liberal im Besuchen konservativer Seiten: (7.5%, Gentzkow Shapiro 2011)
+online Echo Kammer, Lücke zwischen Conservativ/Liberal im Besuchen konservativer Seiten: (7.5%, Gentzkow Shapiro 2011), Gonzalez Bailon: 35%
+- Unterschied Rep./Dem. für Rep. Inhalte (USA): [7.5%](https://doi.org/10.1093/qje/qjr044)-[35%](https://www.science.org/doi/10.1126/science.ade7138)
 :::
   
 ## Politisches & Nachrichten Wissen
@@ -256,23 +296,65 @@ online Echo Kammer, Lücke zwischen Conservativ/Liberal im Besuchen konservative
 
 ![](images/allcott2020.svg){width="300"}
 
-
 ::: footer
 Alcott et al., [2020](https://pubs.aeaweb.org/doi/10.1257/aer.20190658); 
 Diehl et al., [2021](https://doi.org/10.1093/ijpor/edz040);
 Asimovic et al. [2021](https://www.pnas.org/doi/10.1073/pnas.2022819118)
 :::
 
-## Algorithmen und Radikalisierungspiralen?
 
-- USA Election studies Facebook/Instagram Intro slide
-- Facebook Algorithmus: Down-Ranking gleichgesinnter Posts: 53.7% zu 36.2% Kontakt
+## Algorithmen & Radikalisierungspiralen?
+
+![](images/google.png)
 
 - Einfluss von [Google's Algorithmus](https://www.nature.com/articles/s41586-023-06078-5) auf Ergebnisse: Suchworte haben viel stärkeren Effekt
-- YouTube: 1 von 100.000 Usern startet bei moderaten und landet bei rechts-extremen Videos (Ribeiro et al. 2021)
-- Klicks für radikale Videos kommen von außerhalb der Platform (Munger & Philipps, 2022)
+- YouTube: Algorithmus führt zu [weniger radikalem Konsum](https://www.pnas.org/doi/abs/10.1073/pnas.2313377121) oder nach [links](https://www.pnas.org/doi/abs/10.1073/pnas.2101967118)
+- Klicks für radikale Videos kommen von [außerhalb der Platform](https://doi.org/10.1177/1940161220964767)
 
 $\rightarrow$ User haben Handlungsspielraum: Sie suchen gleichgesinnte Inhalte aktiv
+
+::: footer
+Robertson et al., [2023](https://www.nature.com/articles/s41586-023-06078-5)
+Hosseinmardi et al., [2024](https://www.pnas.org/doi/abs/10.1073/pnas.2313377121)
+Hosseinmardi et al., [2021](https://www.pnas.org/doi/abs/10.1073/pnas.2101967118)
+Munger & Philipps, [2022](https://doi.org/10.1177/1940161220964767)
+:::
+
+## Einfluss von Algorithmen
+
+Facebook [Studie](https://www.nature.com/articles/s41586-023-06297-w): Down-ranking von gleichgesinnten Posts
+
+![](images/Nyhan_2023.svg)
+
+* Ähnliche Ergebnisse: Kein Algorithmus oder keine Re-Shares auf Facebook & Instagram
+
+::: footer
+Nyhan et al., [2023](https://www.nature.com/articles/s41586-023-06297-w)
+:::
+
+## Algorithmus: Down-Ranking gleichgesinnter Quellen
+
+![](images/Nyhan_2023_results_Fig3_a_d.svg){.r-stretch}
+
+::: footer
+Nyhan et al., [2023](https://www.nature.com/articles/s41586-023-06297-w)
+:::
+
+::: notes
+from 0.034% to 0.030% for content with slur words
+from 3.15% to 2.81% for uncivil content
+from 0.76% to 0.55% for content from misinformation repeat offenders
+:::
+
+## Echokammern reduzieren? Keine gute Idee. 
+
+Bail
+Asimovic
+
+
+::: footer
+Nyhan et al., [2023](https://www.nature.com/articles/s41586-023-06297-w)
+:::
 
 ## Woher kommen dann die Konflikte? 
 
@@ -544,24 +626,7 @@ knitr::include_graphics("images/williams2024.png")
 
 - Feedback Kreislauf aus sozialer Identität, Suche nach sozialem Status, und politischer Polarisierung (Bail 2021)
 
-## Was ist Falschinformation?
 
-### Falsch oder irreführend unabhängig von der Intention
-
-:::: columns
-::: {.column width="30%"}
-<br><br><br><br><br><br>
-Absichtliche Desinformation
-:::
-::: {.column width="40%"}
-![](https://cdn.pixabay.com/photo/2016/03/31/15/30/china-1293344_1280.png){width="300"}
-<br> <br> Verschwörungsmythen
-:::
-::: {.column width="30%"}
-<br><br><br><br><br><br>
-Fake News
-:::
-::::
 
 ## Überzeugen im Alltag ist schwierig 
 
