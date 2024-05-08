@@ -152,23 +152,7 @@ Lühring\*, Shetty\*, Koschmieder, Waldherr, Garcia & Metzler [2023](https://psy
 Nicht alles was wir über Emotionen annehmen (Emotion macht irrational), stimmt so. Wirklichkeit ist komplexer. Studien auf social media: alle Emotionen zusammen, ohne Gründe für die Emotion zu erforschen So haben wir angefangen, Annahmen in Fragen zu stellen, und waren damit nicht allein
 :::
 
-## Was ist Falschinformation? {visibility="hidden"}
 
-### Falsch oder irreführend unabhängig von der Intention
-
-::: columns
-::: {.column width="25%"}
-<br><br><br><br><br><br> Absichtliche Desinformation
-:::
-
-::: {.column width="50%"}
-![](https://cdn.pixabay.com/photo/2016/03/31/15/30/china-1293344_1280.png) <br> Verschwörungsmythen
-:::
-
-::: {.column width="25%"}
-<br><br><br><br><br><br> Fake News
-:::
-:::
 
 ## Ihre Erfahrungen mit Falschinformation
 
@@ -377,14 +361,6 @@ Image by <a href="https://pixabay.com/users/openclipart-vectors-30363/?utm_sourc
 [Ritchie, 2023, Our World in Data](https://ourworldindata.org/climate-change-support); Spampatti et al. [2024](https://www.nature.com/articles/s41562-023-01736-0) Valasceanu et al. [2024](https://www.science.org/doi/10.1126/sciadv.adj5778)
 :::
 
-## Österreich Polarisierung Klima {visibility="hidden"}
-
-![](images/2023_zandonella.png)
-
-::: footer
-Zandonella & Lux [2023](https://www.sora.at/fileadmin/downloads/projekte/2023_FORESIGHT_Praesentation_Hintergrundgespraech_Polarisierung.pdf)
-:::
-
 ## Digitale Echokammern & Filter Bubbles
 
 ::: columns
@@ -409,18 +385,6 @@ Gentzkow & Shapiro, [2011](https://doi.org/10.1093/qje/qjr044); Bakshy et al. [2
 ::: notes
 -   Kontakt mit andersartigen Sichtweisen online Echo Kammer, Lücke zwischen Conservativ/Liberal im Besuchen konservativer Seiten: (7.5%, Gentzkow Shapiro 2011), Gonzalez Bailon: 35%
 -   Unterschied Rep./Dem. für Rep. Inhalte (USA): [7.5%](https://doi.org/10.1093/qje/qjr044)-[35%](https://www.science.org/doi/10.1126/science.ade7138)
-:::
-
-## Politisches & Nachrichten Wissen {visibility="hidden"}
-
--   Social Media haben [positiven Effekt](https://www.nature.com/articles/s41562-022-01460-1)
--   Klimawandel Skepsis: [niedriger in Social Media Usern](https://doi.org/10.1093/ijpor/edz040)
--   Wissen sinkt nach 4 Wochen [Facebook deaktivieren](https://pubs.aeaweb.org/doi/10.1257/aer.20190658)
-
-![](images/allcott2020.svg){width="300"}
-
-::: footer
-Allcott et al., [2020](https://pubs.aeaweb.org/doi/10.1257/aer.20190658); Diehl et al., [2021](https://doi.org/10.1093/ijpor/edz040); Asimovic et al. [2021](https://www.pnas.org/doi/10.1073/pnas.2022819118)
 :::
 
 ## Einfluss von Algorithmen
@@ -550,18 +514,20 @@ Maitra et al., [2023](www.doi.org/10.51685/jqd.2023.008)
 ## 2 Prinzipien
 
 -   Menschen sind nicht dumm!
-    -   [**Argumente** wirken](https://doi.org/10.2307/j.ctvn1tbqq), aber müssen dort ansetzen, wo die guten, oft sozialen Gründe für Überzeugungen liegen
+    -   [**Argumente** wirken](https://www.jstor.org/stable/j.ctvn1tbqq), aber müssen dort ansetzen, wo die guten, oft sozialen Gründe für Überzeugungen liegen
 -   **Vertrauen** stärken und nicht verspielen: Transparenz
 
 ![](https://cdn.pixabay.com/photo/2013/09/28/10/57/smart-187696_960_720.jpg){.absolute bottom="50" left="550" height="250"} ![](https://cdn.pixabay.com/photo/2017/06/27/11/48/team-spirit-2447163_1280.jpg){.absolute bottom="50" left="60" height="250"}
 
 ## Individuelle Ebene
 
--   Scheinbare Polarisierung sichtbar machen
+-   Verzerrung & Scheinbare Polarisierung sichtbar machen
 -   Übereinstimmung & moderate Meinungen sichtbar machen
 -   [Kleine Schritte](https://doi.org/10.1093/poq/nfy036) in Richtung neue Sichtweisen machen
 
-![](https://cdn.pixabay.com/photo/2012/04/28/19/06/stairs-44070_1280.png){.absolute bottom="50" left="600" height="250"} ![](https://cdn.pixabay.com/photo/2021/04/13/02/38/prism-6174502_1280.jpg){.absolute bottom="50" left="50" height="250"}
+![](https://cdn.pixabay.com/photo/2021/04/13/02/38/prism-6174502_1280.jpg){.absolute bottom="50" left="50" height="250"}
+
+![](https://cdn.pixabay.com/photo/2012/04/28/19/06/stairs-44070_1280.png){.absolute bottom="50" left="600" height="250"}
 
 ::: footer
 Bail [2021](https://press.princeton.edu/books/hardcover/9780691203423/breaking-the-social-media-prism)
@@ -708,6 +674,24 @@ knitr::include_graphics("images/williams2024.png")
 ::: notes
 ## Notes {visibility="hidden"}
 
+### Was ist Falschinformation?
+
+### Falsch oder irreführend unabhängig von der Intention
+
+::: columns
+::: {.column width="25%"}
+<br><br><br><br><br><br> Absichtliche Desinformation
+:::
+
+::: {.column width="50%"}
+![](https://cdn.pixabay.com/photo/2016/03/31/15/30/china-1293344_1280.png) <br> Verschwörungsmythen
+:::
+
+::: {.column width="25%"}
+<br><br><br><br><br><br> Fake News
+:::
+:::
+
 ### Andere für leichtgläubiger halten
 
 Umso stärker der **dritte Person Effekt** <br> $\rightarrow$ Desto mehr Sorgen wegen Falschinformation
@@ -716,6 +700,32 @@ Umso stärker der **dritte Person Effekt** <br> $\rightarrow$ Desto mehr Sorgen 
 
 ::: footer
 Altay & Acerbi [(2023)](https://doi.org/10.1177/14614448231153379), Figure 1
+:::
+
+
+## Politisches & Nachrichten Wissen {visibility="hidden"}
+
+-   Social Media haben [positiven Effekt](https://www.nature.com/articles/s41562-022-01460-1)
+-   Klimawandel Skepsis: [niedriger in Social Media Usern](https://doi.org/10.1093/ijpor/edz040)
+-   Wissen sinkt nach 4 Wochen [Facebook deaktivieren](https://pubs.aeaweb.org/doi/10.1257/aer.20190658)
+
+![](images/allcott2020.svg){width="300"}
+
+::: footer
+Allcott et al., [2020](https://pubs.aeaweb.org/doi/10.1257/aer.20190658); Diehl et al., [2021](https://doi.org/10.1093/ijpor/edz040); Asimovic et al. [2021](https://www.pnas.org/doi/10.1073/pnas.2022819118)
+:::
+
+::: notes
+nach Echokammern slide
+:::
+
+
+## Österreich Polarisierung Klima {visibility="hidden"}
+
+![](images/2023_zandonella.png)
+
+::: footer
+Zandonella & Lux [2023](https://www.sora.at/fileadmin/downloads/projekte/2023_FORESIGHT_Praesentation_Hintergrundgespraech_Polarisierung.pdf)
 :::
 
 ### Klima Einstellungen in den USA
