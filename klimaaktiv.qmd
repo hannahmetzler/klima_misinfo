@@ -324,14 +324,14 @@ Images by <a href="https://pixabay.com/users/iximus-2352783/?utm_source=link-att
 ## Fehlinformation auf sozialen Medien
 
 - Kleiner Anteil der News: [1-6%](https://journalqd.org/article/view/3617) in 5 Studien von 2016-2019
-- Nur 20% der Misinformation, aber 69% der Interaktion [damit](https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation)
 - Minderheit der User teilt Großteil der Falschinformation: 
   - 1% User teilt 75% [(2018-2019)](https://www.doi.org/10.1017/S0003055421000290), 5% User teilt 50% [(2016)](https://www.sciencemag.org/lookup/doi/10.1126/science.aau2706)
+- Nur 20% der Misinformation, aber 69% der Interaktion [damit](https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation)
 - Überlappt mit [Hassrede](https://doi.org/10.1093/pnasnexus/pgae111)
 
 ::: fragment
-![](https://www.lmz-bw.de/fileadmin/user_upload/Bilder/allgemeine_Bilder/hatespeech-GettyImages-1179353458-Roman-Didkivskyi.jpg){.absolute bottom=30 left=60 height='250'}
-![](https://images.pexels.com/photos/3989901/pexels-photo-3989901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1){.absolute bottom=30 left=550 height='250'}
+![](https://www.lmz-bw.de/fileadmin/user_upload/Bilder/allgemeine_Bilder/hatespeech-GettyImages-1179353458-Roman-Didkivskyi.jpg){.absolute bottom=40 left=60 height='200'}
+![](https://images.pexels.com/photos/3989901/pexels-photo-3989901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1){.absolute bottom=40 left=550 height='200'}
 :::
 
 
@@ -513,14 +513,18 @@ from 0.76% to 0.55% for content from misinformation repeat offenders
 
 - Einfluss von [Google's Algorithmus](https://www.nature.com/articles/s41586-023-06078-5) auf Ergebnisse: Suchworte haben viel stärkeren Effekt
 
+::: fragment
 ![](images/google.png)
+:::
 
 
 - YouTube: Algorithmus führt zu [weniger radikalem Konsum](https://www.pnas.org/doi/abs/10.1073/pnas.2313377121)
 - Klicks für radikale Videos: von [außerhalb der Platform](https://doi.org/10.1177/1940161220964767)
 - [User Präferenzen](https://www.pnas.org/doi/abs/10.1073/pnas.2101967118) bestimmen Views von radikalen Videos
 
+::: fragment
 **$\rightarrow$ User suchen aktiv gleichgesinnte Inhalte**
+:::
 
 ::: footer
 Robertson et al., [2023](https://www.nature.com/articles/s41586-023-06078-5);
@@ -554,12 +558,16 @@ Bail et al. [2018](https://www.pnas.org/content/115/37/9216)
 
 ## Soziale Dynamik auf Social Media
 
+
 :::: columns
 ::: {.column width="30%"}
+::: fragment
 ![](https://cdn.pixabay.com/photo/2022/01/07/01/21/girl-6920625_1280.jpg)
+
 
 <br>
 ![](https://images.fineartamerica.com/images-medium-large/chimpanzee-alpha-male-western-uganda-suzi-eszterhas.jpg)
+:::
 
 :::
 ::: {.column width="70%"}
@@ -567,7 +575,10 @@ Bail et al. [2018](https://www.pnas.org/content/115/37/9216)
 - Uns selbst und andere verstehen
 - Mehr Kontakt mit andersartigen Menschen ohne Kontextverständnis
 
+::: fragment
+
 ### Suche nach sozialem Status
+:::
 
 - Keine Konsequenzen von aggressivem Verhalten
 - Wettbewerb von Gruppen
@@ -591,14 +602,22 @@ Brady et al. [2020](https://doi.org/10.1177/1745691620917336)
 ![](images/bail_book.avif){width="300"}
 :::
 ::: {.column width="70%"}
-<br>
+- Extreme Meinungen sind sichtbar
+- Status für politisch Motivierte
+  - Doomsday, Degrowth
+  - Windkraft Proteste, Armut
+  
+- Moderate melden sich nicht zu Wort
+  - Klimawandel + Wirtschaft + Gentechnik
+  
 
+
+
+::: fragment
 ### Scheinbare Polarisierung
 
-- Extreme Meinungen sind sichtbar
-- Moderate melden sich nicht zu Wort
-
 $\rightarrow$ Wahrgenommene politische Spaltung verstärkt die **emotionale Polarisierung**
+:::
 :::
 ::::
 
@@ -626,23 +645,29 @@ Populistische Partei ist extrem überrepräsetiert
 - Menschen sind nicht dumm! [**Argumente** wirken](https://doi.org/10.2307/j.ctvn1tbqq).
 - **Vertrauen** stärken und nicht verspielen: Transparenz
 
+::: fragment
 ### Auf verschiedenen Ebenen anwenden
 
 ![](https://cdn.pixabay.com/photo/2013/09/28/10/57/smart-187696_960_720.jpg){.absolute bottom=100 left=550 height='250'}
 ![](https://cdn.pixabay.com/photo/2017/06/27/11/48/team-spirit-2447163_1280.jpg){.absolute bottom=100 left=60 height='250'}
+:::
 
 
-## Persönliche & digitale Kommunikation
+## Individuelle Ebene
 
 - Scheinbare Polarisierung sichtbar machen
 - Übereinstimmung & moderate Meinungen sichtbar machen
 - Kleine Schritte machen
 
+::: fragment
+![](https://cdn.pixabay.com/photo/2012/04/28/19/06/stairs-44070_1280.png){width="200"}
+:::
+
 ::: footer
 Bail [2021](https://press.princeton.edu/books/hardcover/9780691203423/breaking-the-social-media-prism)
 :::
 
-## Wie?
+## Persönliche & digitale Kommunikation
 
 - Zuhören und Nachfragen
 - über [persönliche Erfahrungen](https://www.pnas.org/doi/10.1073/pnas.2008389118) & [Nicht-Politisches](https://doi.org/10.1093/poq/nfy014) sprechen
@@ -693,8 +718,11 @@ Polarisierend: Werte erinnern - erreicht die andere Seite besser
 ## Politik & Gesellschaft
 
 - Eliten: starker Effekt auf öffentliche Meinung
+- Politisch aktiv bleiben/werden
 
+::: fragment
 ### Vertrauen gewinnen
+:::
 
 - Transparente Kommunikation von Politikern & Experten
 - Reale Probleme lösen 
@@ -713,21 +741,15 @@ Ritchie [2023](https://www.thalia.at/shop/home/artikeldetails/A1069948591)
 Kritik der eigenen Seite ist glaubenswürdig: opinion leaders: ch 8 ref 33, resonate most with the other side if they criticize their own party most often
 :::
 
-## Zusammenfassung & Danke
+## Zusammenfassung
 
-- Wahrgenommene Polarisierung als Kernproblem mit Social Media
+- Reale Probleme lösen & transparente Erklärungen
+
+- Social Media: treibt scheinbare Polarisierung an
 
 - Soziale Faktoren wirken stärker als Algorithmen & Co
 
 - Menschen sind nicht dumm! 
-
-- Reale Probleme lösen & transparente Erklärungen
-
-<br>
-
-<center>
-### Danke für Ihre Aufmerksamkeit!
-</center>
 
 ## Für Neugierige
 
@@ -798,7 +820,7 @@ knitr::include_graphics("images/williams2024.png")
 ::: footer
 :::
 
-
+# Danke für Ihre Aufmerksamkeit!
 
 ::: notes
 
