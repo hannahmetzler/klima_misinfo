@@ -8,7 +8,7 @@ format:
     ## Defines the theme of the presentation, both version and style
     theme: [default, custom.scss]
     # incremental slides point by point
-    incremental: true
+    # incremental: true
     aspect-ratio: 16:9
     slide-number: true
 # title-slide-attributes:
@@ -24,7 +24,7 @@ editor: visual
 ### Der Einfluss von Algorithmen, Echokammern und KI auf den digitalen Diskurs und was zu tun ist.
 <br>
 
-**Hannah Metzler**
+**Mag. Dr. Hannah Metzler**
 <br>
 *Complexity Science Hub & Medizinische Universität Wien*
 <br>
@@ -396,12 +396,9 @@ Bor & Petersen [2022](https://www.doi.org/10.1017/S0003055421000885)
 :::
 ::::
 
-::: fragment
-Zusammenhang: rechte politischer Orientierung & Populismus <br>
-:::
-
-- Anti-Eliten $\rightarrow$ Anti Wissenschaft - Klimawandel, und 
-- Liberale politische Einstellung $\neq$ CO2-Regulation
+- Zusammenhang mit rechten Einstellungen & Populismus:
+- Anti-Eliten $\rightarrow$ Anti-Wissenschaft $\rightarrow$ Anti-Klimawandel 
+- Liberale wirtschaftliche Einstellung $\neq$ CO2-Regulation
 
 ::: footer
 Lewandowski [2021](https://doi.org/10.3758/s13421-019-00948-y)
