@@ -294,8 +294,14 @@ Grinberg et  al., [2019](https://www.sciencemag.org/lookup/doi/10.1126/science.
 
 ## Misinformation von Oben
 
--   Politiker teilen 20% der Fehlinformation. Diese [20% verursachen 69% des Engagement mit Fehlinformation](https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation)
+-   Politiker teilen 20% der Fehlinformation. 
+* Diese [20% verursachen 69% des Engagement](https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation) mit Fehlinformation auf Social Media. 
 
+![](images/afd_mimikama.png)
+
+::: footer
+Brennen et al. [2020](https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation); Mimikama [2024](https://www.mimikama.org/windenergie-in-frankreich-wirklich-gestoppt/)
+:::
 
 ## Wer sind die extremen Stimmen?
 
