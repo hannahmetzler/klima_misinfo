@@ -16,7 +16,7 @@ format:
 #     data-background-size: cover
 #     data-background-opacity: "0.5"
 #editor
-editor: visual
+# editor: visual
 ---
 
 ## Soziale Medien sind (k)ein Klimakiller {.center}
@@ -286,8 +286,7 @@ Images by <a href="https://pixabay.com/users/iximus-2352783/?utm_source=link-att
 ![](https://www.lmz-bw.de/fileadmin/user_upload/Bilder/allgemeine_Bilder/hatespeech-GettyImages-1179353458-Roman-Didkivskyi.jpg){.absolute bottom="30" left="200" height="150"} ![](https://images.pexels.com/photos/3989901/pexels-photo-3989901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1){.absolute bottom="30" left="500" height="150"}
 
 ::: footer
-Altay et al. [2022](https://journalqd.org/article/view/3617); 
-Grinberg et  al., [2019](https://www.sciencemag.org/lookup/doi/10.1126/science.aau2706); Osmundsen et al., [2021](https://www.doi.org/10.1017/S0003055421000290); Mosleh et al., [2024](https://doi.org/10.1093/pnasnexus/pgae111)
+Altay et al. [2022](https://journalqd.org/article/view/3617); Grinberg et  al., [2019](https://www.sciencemag.org/lookup/doi/10.1126/science.aau2706); Osmundsen et al., [2021](https://www.doi.org/10.1017/S0003055421000290); Mosleh et al., [2024](https://doi.org/10.1093/pnasnexus/pgae111)
 :::
 
 ## Misinformation von Oben
@@ -324,8 +323,7 @@ Brennen et al. [2020](https://reutersinstitute.politics.ox.ac.uk/types-sources-a
 :::
 
 ::: footer
-Altay et al. [2023](https://www.doi.org/10.37016/mr-2020-119); 
-Bor & Petersen [2022](https://www.doi.org/10.1017/S0003055421000885)
+Altay et al. [2023](https://www.doi.org/10.37016/mr-2020-119); Bor & Petersen [2022](https://www.doi.org/10.1017/S0003055421000885)
 :::
 
 ::: notes
@@ -516,7 +514,7 @@ Törnberg [2022](https://www.pnas.org/doi/10.1073/pnas.2207159119); Bail [2021](
 ![](images/switzerland.svg)
 
 ::: footer
-Maitra et al., [2023](www.doi.org/10.51685/jqd.2023.008)
+Maitra et al., [2023](https://doi.org/10.51685/jqd.2023.008)
 :::
 
 -   Populistische Partei ist extrem überrepräsentiert
